@@ -1,0 +1,1506 @@
+
+            .site-logo img {
+                max-width: 110px;
+            }
+            .page-loading-effect {
+                background-color: #fff;
+            }
+            .nuss-ldef-circle > span,
+            .nuss-ldef-facebook span,
+            .nuss-ldef-heart span,
+            .nuss-ldef-heart span:after,
+            .nuss-ldef-heart span:before,
+            .nuss-ldef-roller span:after,
+            .nuss-ldef-default span,
+            .nuss-ldef-ellipsis span,
+            .nuss-ldef-grid span,
+            .nuss-ldef-spinner span:after {
+                background-color: #b95c47;
+            }
+            .nuss-ldef-ripple span {
+                border-color: #b95c47;
+            }
+            .nuss-ldef-dual-ring:after,
+            .nuss-ldef-ring span,
+            .nuss-ldef-hourglass:after {
+                border-top-color: #b95c47;
+            }
+            .nuss-ldef-dual-ring:after,
+            .nuss-ldef-hourglass:after {
+                border-bottom-color: #b95c47;
+            }
+            body {
+                font-family: Jost;
+                font-size: 18px;
+                font-weight: 400;
+                letter-spacing: inherit;
+                line-height: 1.5;
+                color: #5a5a5a;
+            }
+            h1,
+            h2,
+            h3,
+            h4,
+            h5,
+            h6,
+            .heading-font,
+            strong {
+                font-family: Cormorant Garamond;
+                font-weight: 700;
+                letter-spacing: inherit;
+                line-height: inherit;
+                color: #1a1a1a;
+            }
+            h1 {
+                font-size: 64px;
+            }
+            h2 {
+                font-size: 48px;
+            }
+            h3 {
+                font-size: 36px;
+            }
+            h4 {
+                font-size: 28px;
+            }
+            h5 {
+                font-size: 22px;
+            }
+            h6 {
+                font-size: 18px;
+            }
+            #commentform #wp-comment-cookies-consent:checked:before,
+            .nuss-pagination ul li .page-numbers.current,
+            .nuss-pagination ul li a:focus,
+            .nuss-pagination ul li a:hover,
+            .woocommerce nav.woocommerce-pagination ul li .page-numbers.current,
+            .woocommerce nav.woocommerce-pagination ul li a:focus,
+            .woocommerce nav.woocommerce-pagination ul li a:hover,
+            .nuss-swiper.nav-style-04 .swiper-nav-button:hover,
+            .nuss-swiper.pagination-style-04 .fraction,
+            .nuss-swiper.pagination-style-06 .fraction,
+            .list-category li.active a,
+            .payment-method-wrap .radio.active i,
+            .datepick-month-row .datepick-cmd:hover,
+            .datepick-month td .datepick-today,
+            .regular-price,
+            .product-quantity .btn-quantity:hover i,
+            .accent-color,
+            .nuss-swiper .swiper-pagination-bullet:hover,
+            .nuss-swiper .swiper-pagination-bullet.swiper-pagination-bullet-active,
+            .woocommerce-info:before,
+            .woocommerce .checkout.woocommerce-checkout #order_review table tfoot tr.order-total td .amount,
+            .woocommerce-info a.showcoupon,
+            .nuss-blog-categories li.active a,
+            .nuss-pagination li .page-numbers.current,
+            .nuss-pagination li a:hover,
+            .uxper-notice mark {
+                color: #b95c47;
+            }
+            .list-category li.active a,
+            .payment-method-wrap .radio.active,
+            .calendar .calendar-legend-item.calendar--selected .calendar-box,
+            .woocommerce .inner-action-form .coupon input,
+            .woocommerce input#submit,
+            .woocommerce a.button,
+            .nuss-swiper.pagination-style-05 .swiper-pagination-bullet:hover:after,
+            .woocommerce button.button,
+            .woocommerce input.button,
+            .woocommerce-info,
+            .nuss-blog-categories li.active a,
+            .wp-block-search .wp-block-search__button,
+            .nuss-swiper .swiper-nav-button:hover,
+            blockquote,
+            select:focus,
+            textarea:focus,
+            input[type="text"]:focus,
+            input[type="email"]:focus,
+            input[type="password"]:focus,
+            input[type="number"]:focus,
+            input[type="search"]:focus {
+                border-color: #b95c47;
+            }
+            .accent-background,
+            .calendar .calendar-legend-item.calendar--today .calendar-box,
+            .datepick-month td .datepick-selected.datepick-highlight.datepick-today,
+            .datepick-month td .datepick-today:after,
+            .datepick-month td .datepick-selected,
+            .datepick-month td a:hover,
+            .datepick-month td a:hover,
+            .woocommerce input#submit,
+            .woocommerce .wc-proceed-to-checkout a.checkout-button,
+            .woocommerce a.button,
+            .woocommerce button.button,
+            .woocommerce input.button,
+            .woocommerce .checkout_coupon .button,
+            .nuss-swiper.pagination-style-08 .swiper-pagination-container .swiper-pagination-bullet-active .title:before,
+            .nuss-elementor-loading.elementor-section-boxed:after,
+            .nuss-elementor-loading:not(.elementor-section-boxed) > .elementor-widget-container:after,
+            .nuss-elementor-loading:not(.elementor-section-boxed) > .elementor-widget-wrap:after,
+            .nuss-elementor-loading:not(.elementor-section-boxed) > .elementor-container:after,
+            .page-links .post-page-numbers.current,
+            .nuss-blog .sticky .post-title span,
+            .page-scroll-up,
+            .widget_calendar #today,
+            .widget .tagcloud a:hover,
+            .widget_search .search-submit:hover,
+            .nuss-swiper .swiper-nav-button:hover,
+            .widget_product_search .search-submit:hover,
+            .search-form .search-submit:hover,
+            .single .post-tags a:hover,
+            .wp-block-search .wp-block-search__button,
+            .wp-block-tag-cloud a:hover {
+                background-color: #b95c47;
+            }
+            .uxper-dual-ring:after {
+                border-top-color: #b95c47;
+                border-bottom-color: #b95c47;
+            }
+            a {
+                color: #1a1a1a;
+            }
+            a:hover,
+            a:focus,
+            .widget_rss li a:hover {
+                color: #b95c47;
+            }
+            .nuss-button {
+                font-size: 15px;
+                font-weight: 500;
+                letter-spacing: 1px;
+                line-height: 1.4;
+                text-transform: uppercase;
+            }
+            .nuss-button.underline {
+                color: #1a1a1a;
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 6px;
+                padding-left: 0px;
+                border-style: solid;
+                border-color: #1a1a1a;
+                border-top-width: 0px;
+                border-right-width: 0px;
+                border-bottom-width: 1px;
+                border-left-width: 0px;
+                -webkit-border-radius: 0px;
+                -moz-border-radius: 0px;
+                border-radius: 0px;
+            }
+            .nuss-button.underline:hover,
+            .nuss-button.underline:focus {
+                color: #b95c47;
+            }
+            .nuss-button.full-filled {
+                color: #ffffff;
+                background-color: #b95c47;
+                padding-top: 11px;
+                padding-right: 32px;
+                padding-bottom: 11px;
+                padding-left: 32px;
+                border-style: none;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                border-radius: 3px;
+            }
+            .nuss-button.full-filled:hover,
+            .nuss-button.full-filled:focus {
+                color: #ffffff;
+            }
+            .nuss-button.full-filled:hover {
+                background-color: #b74545;
+            }
+            .nuss-button.line {
+                color: #1a1a1a;
+                padding-top: 11px;
+                padding-right: 32px;
+                padding-bottom: 11px;
+                padding-left: 32px;
+                border-style: solid;
+                border-color: #1a1a1a;
+                border-top-width: 1px;
+                border-right-width: 1px;
+                border-bottom-width: 1px;
+                border-left-width: 1px;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                border-radius: 3px;
+            }
+            .nuss-button.line:hover,
+            .nuss-button.line:focus {
+                color: #b95c47;
+            }
+            html {
+                background-color: #ffffff;
+                background-repeat: no-repeat;
+                background-position: left top;
+                background-attachment: scroll;
+                -webkit-background-size: auto;
+                -moz-background-size: auto;
+                -ms-background-size: auto;
+                -o-background-size: auto;
+                background-size: auto;
+            }
+            .error404 {
+                background: #fff;
+                background-color: #fff;
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-attachment: fixed;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -ms-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+            }
+            header.site-header .header-button-01 a.nuss-button {
+                color: #fff;
+                background-color: #b95c47;
+                border-style: none;
+                text-transform: uppercase;
+                max-width: 300px;
+                padding-top: 11px;
+                padding-right: 32px;
+                padding-bottom: 11px;
+                padding-left: 32px;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                border-radius: 3px;
+            }
+            header.site-header .header-button-02 a.nuss-button {
+                color: #fff;
+                background-color: #b95c47;
+                border-style: none;
+                text-transform: uppercase;
+                max-width: 100px;
+                padding-top: 29px;
+                padding-right: 28px;
+                padding-bottom: 29px;
+                padding-left: 28px;
+                -webkit-border-radius: 0px;
+                -moz-border-radius: 0px;
+                border-radius: 0px;
+            }
+            .ux-element.desktop-menu .menu > li > a {
+                font-size: 15px;
+                padding-top: 20px;
+                padding-right: 20px;
+                padding-bottom: 20px;
+                padding-left: 20px;
+            }
+            header.site-header .ux-element.canvas-menu .bg-overlay {
+                background-color: rgba(0, 0, 0, 0.8);
+            }
+            .ux-element.canvas-menu .icon-menu {
+                color: #1a1a1a;
+                border-style: none;
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 0px;
+                padding-left: 0px;
+            }
+            header.site-header .ux-element.canvas-mb-menu .bg-overlay {
+                background-color: rgba(0, 0, 0, 0.8);
+            }
+            .ux-element.canvas-mb-menu .icon-menu {
+                color: #1a1a1a;
+                border-style: none;
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 0px;
+                padding-left: 0px;
+            }
+            .ux-element.header-lang .inner-lang {
+                border-style: none;
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 0px;
+                padding-left: 0px;
+            }
+            .ux-element.header-search-icon .icon-search a {
+                color: #ffffff;
+                font-size: 16px;
+                border-style: none;
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 0px;
+                padding-left: 0px;
+                -webkit-border-radius: 0px;
+                -moz-border-radius: 0px;
+                border-radius: 0px;
+            }
+            .ux-element.header-search-input .area-search {
+                border-style: solid;
+                border-width: 1px;
+                border-color: #666666;
+            }
+            .ux-element.header-search-input .input-search {
+                padding-top: 8px;
+                padding-right: 50px;
+                padding-bottom: 8px;
+                padding-left: 10px;
+                -webkit-border-radius: 0px;
+                -moz-border-radius: 0px;
+                border-radius: 0px;
+            }
+            .ux-element.header-search-input {
+                width: 70%;
+            }
+            .ux-element.header-search-input .icon-search {
+                font-size: 16px;
+                color: #b95c47;
+            }
+            .ux-element.header-device > span {
+                background: #0d0909;
+                width: 1px;
+                height: 30px;
+                -webkit-border-radius: 0px;
+                -moz-border-radius: 0px;
+                border-radius: 0px;
+            }
+            .header-custom-html-01 {
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 0px;
+                padding-left: 0px;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.75;
+            }
+            .header-custom-html-02 {
+                padding-top: 0px;
+                padding-right: 0px;
+                padding-bottom: 0px;
+                padding-left: 0px;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.75;
+            }
+            .blog .nuss-blog .post-title a {
+                font-size: 36px;
+                letter-spacing: inherit;
+                line-height: 1.211;
+            }
+            .single-post .post-title .entry-title {
+                font-size: 42px;
+                letter-spacing: inherit;
+                line-height: 1.211;
+            }
+            .check-availabity-popup .bg-overlay {
+                background-image: url("wp-content/uploads/sites/6/2021/06/176932046.jpg");
+                background-color: #1a1a1a;
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-attachment: fixed;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -ms-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+            }
+            .page-title.page-title-01 .page-title-bg {
+                background: rgba(0, 0, 0, 0);
+                background-color: rgba(0, 0, 0, 0);
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-attachment: scroll;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -ms-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+            }
+            .page-title.page-title-01 .page-title-bg:before {
+                background-color: rgba(0, 0, 0, 0);
+            }
+            .page-title.page-title-01 .page-title-inner {
+                border-bottom-width: 0px;
+                border-bottom-color: rgba(0, 0, 0, 0);
+                padding-top: 60px;
+                padding-bottom: 60px;
+            }
+            .page-title.page-title-01 {
+                margin-bottom: 0px;
+            }
+            .page-title.page-title-01 .heading {
+                font-size: 56px;
+                font-weight: 700;
+                line-height: 1.211;
+                color: #1a1a1a;
+            }
+            .page-title.page-title-01 .nuss_breadcrumb li,
+            .page-title.page-title-01 .nuss_breadcrumb li a {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.75;
+            }
+            .page-title.page-title-01 .nuss_breadcrumb li {
+                color: #1a1a1a;
+            }
+            .page-title.page-title-01 .nuss_breadcrumb a {
+                color: #5a5a5a;
+            }
+            .page-title.page-title-01 .nuss_breadcrumb a:hover {
+                color: #1a1a1a;
+            }
+            .page-title.page-title-01 .nuss_breadcrumb li + li:before {
+                color: #5a5a5a;
+            }
+            .page-title.page-title-02 .page-title-bg {
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-attachment: scroll;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -ms-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+            }
+            .page-title.page-title-02 .page-title-bg:before {
+                background-color: rgba(0, 0, 0, 0);
+            }
+            .page-title.page-title-02 .page-title-inner {
+                border-bottom-width: 0px;
+                border-bottom-color: rgba(0, 0, 0, 0);
+                padding-top: 60px;
+                padding-bottom: 60px;
+            }
+            .page-title.page-title-02 {
+                margin-bottom: 0px;
+            }
+            .page-title.page-title-02 .heading {
+                font-size: 56px;
+                font-weight: 700;
+                line-height: 1.211;
+                color: #1a1a1a;
+            }
+            .page-title.page-title-02 .nuss_breadcrumb li,
+            .page-title.page-title-02 .nuss_breadcrumb li a {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.75;
+            }
+            .page-title.page-title-02 .nuss_breadcrumb li {
+                color: #1a1a1a;
+            }
+            .page-title.page-title-02 .nuss_breadcrumb a {
+                color: #5a5a5a;
+            }
+            .page-title.page-title-02 .nuss_breadcrumb a:hover {
+                color: #1a1a1a;
+            }
+            .page-title.page-title-02 .nuss_breadcrumb li + li:before {
+                color: #5a5a5a;
+            }
+            .page-title.page-title-03 .page-title-bg {
+                background: #a7a7a7;
+                background-color: #a7a7a7;
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-attachment: scroll;
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -ms-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+            }
+            .page-title.page-title-03 .page-title-bg:before {
+                background-color: rgba(0, 0, 0, 0);
+            }
+            .page-title.page-title-03 .page-title-inner {
+                border-bottom-width: 0px;
+                border-bottom-color: rgba(0, 0, 0, 0);
+                padding-top: 200px;
+                padding-bottom: 200px;
+            }
+            .page-title.page-title-03 {
+                margin-bottom: 60px;
+            }
+            .page-title.page-title-03 .heading {
+                font-size: 56px;
+                font-weight: 700;
+                line-height: 1.211;
+                color: #fff;
+            }
+            .page-title.page-title-03 .nuss_breadcrumb li,
+            .page-title.page-title-03 .nuss_breadcrumb li a {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.75;
+            }
+            .page-title.page-title-03 .nuss_breadcrumb li {
+                color: #1a1a1a;
+            }
+            .page-title.page-title-03 .nuss_breadcrumb a {
+                color: #5a5a5a;
+            }
+            .page-title.page-title-03 .nuss_breadcrumb a:hover {
+                color: #1a1a1a;
+            }
+            .page-title.page-title-03 .nuss_breadcrumb li + li:before {
+                color: #5a5a5a;
+            }
+            @media (min-width: 992px) {
+                #secondary.sidebar-single-post {
+                    flex-basis: 370px;
+                    max-width: 370px;
+                }
+                #secondary.sidebar-single-room {
+                    flex-basis: 370px;
+                    max-width: 370px;
+                }
+                #secondary.sidebar-single-product {
+                    flex-basis: 370px;
+                    max-width: 370px;
+                }
+            }
+            @media (max-width: 1199px) {
+                .page-title.page-title-01 .page-title-inner .heading {
+                    font-size: 56px;
+                }
+                .page-title.page-title-01 .page-title-inner {
+                    padding-top: 60px;
+                    padding-bottom: 60px;
+                }
+                .page-title.page-title-02 .page-title-inner .heading {
+                    font-size: 56px;
+                }
+                .page-title.page-title-02 .page-title-inner {
+                    padding-top: 60px;
+                    padding-bottom: 60px;
+                }
+                .page-title.page-title-03 .page-title-inner .heading {
+                    font-size: 56px;
+                }
+                .page-title.page-title-03 .page-title-inner {
+                    padding-top: 160px;
+                    padding-bottom: 160px;
+                }
+            }
+            @media (max-width: 991px) {
+                .page-title.page-title-01 .page-title-inner .heading {
+                    font-size: 56px;
+                }
+                .page-title.page-title-01 .page-title-inner {
+                    padding-top: 60px;
+                    padding-bottom: 60px;
+                }
+                .page-title.page-title-02 .page-title-inner .heading {
+                    font-size: 56px;
+                }
+                .page-title.page-title-02 .page-title-inner {
+                    padding-top: 60px;
+                    padding-bottom: 60px;
+                }
+                .page-title.page-title-03 .page-title-inner .heading {
+                    font-size: 56px;
+                }
+                .page-title.page-title-03 .page-title-inner {
+                    padding-top: 160px;
+                    padding-bottom: 160px;
+                }
+            }
+            @media (max-width: 767px) {
+                .page-title.page-title-01 .page-title-inner .heading {
+                    font-size: 42px;
+                }
+                .page-title.page-title-01 .page-title-inner {
+                    padding-top: 50px;
+                    padding-bottom: 50px;
+                }
+                .page-title.page-title-02 .page-title-inner .heading {
+                    font-size: 42px;
+                }
+                .page-title.page-title-02 .page-title-inner {
+                    padding-top: 50px;
+                    padding-bottom: 50px;
+                }
+                .page-title.page-title-03 .page-title-inner .heading {
+                    font-size: 42px;
+                }
+                .page-title.page-title-03 .page-title-inner {
+                    padding-top: 140px;
+                    padding-bottom: 140px;
+                }
+            } /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 200;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 200;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 200;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0FBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 800;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 800;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 800;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZm0CBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 900;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBI4kmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 900;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIQkmNPOIEtmCIZ3.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: italic;
+                font-weight: 900;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zJtBhPNqw73oHH7BbQp4-B6XlrZkQCBIokmNPOIEtmCA.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 200;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwjJTVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 200;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwjJTVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 200;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwjJTVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mz9JTVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mz9JTVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myjJTVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myjJTVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myRJTVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myRJTVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mxEIjVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mxEIjVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 800;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwjIjVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 800;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwjIjVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 800;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwjIjVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 900;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwKIjVFNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 900;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwKIjVPNI4un_HKCEl-Cw.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Jost";
+                font-style: normal;
+                font-weight: 900;
+                font-display: swap;
+                src: url(wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mwKIjVBNI4un_HKCEk.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            } /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-HzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-OzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-FzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-EzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPjuz-KzhWp_D95.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtFmSyn7B6DxjY.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtMmSyn7B6DxjY.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtHmSyn7B6DxjY.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtGmSyn7B6DxjY.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3ZmX5slCNuHLi8bLeY9MK7whWMhyjYrEtImSyn7B6D.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-HzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-OzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-FzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-EzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEO7uj-KzhWp_D95.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-HzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-OzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-FzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-EzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEOXvT-KzhWp_D95.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-HzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-OzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-FzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-EzhWp_D95AnI.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: italic;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3WmX5slCNuHLi8bLeY9MK7whWMhyjYrEPzvD-KzhWp_D95.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfsw-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfug-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfsQ-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfsA-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 300;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQAllfvg-OxBSL_g.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtMky2F7i6C.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtMky2F7i6C.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntMky2F7i6C.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tMky2F7i6C.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtMky2F7g.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfsw-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfug-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfsQ-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfsA-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQWlhfvg-OxBSL_g.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fsw-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fug-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fsQ-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fsA-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 600;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQdl9fvg-OxBSL_g.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+            /* cyrillic-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsw-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fug-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* vietnamese */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsQ-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fsA-OxBSL_g94.woff) format("woff");
+                unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+                font-family: "Cormorant Garamond";
+                font-style: normal;
+                font-weight: 700;
+                font-display: swap;
+                src: url(wp-content/fonts/cormorant-garamond/co3YmX5slCNuHLi8bLeY9MK7whWMhyjQEl5fvg-OxBSL_g.woff) format("woff");
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+     
