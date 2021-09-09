@@ -1,4 +1,4 @@
-<header class="site-header header-float header-dark header-05" data-section="header-05">
+<header class="site-header  header-dark header-05" data-section="header-05" style="background:transparent">
       <div class="nuss-builder">
         <div class="row main-row container" id="hs5rrl6l5j">
           <div class="column-wrap left-header" data-col="40" data-sm-col="auto" id="h9mk6r8bc8">
