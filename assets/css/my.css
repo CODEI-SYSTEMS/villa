@@ -1,6 +1,6 @@
 
             .site-logo img {
-                max-width: 110px;
+                max-width: 80px;
             }
             .page-loading-effect {
                 background-color: #fff;
@@ -157,15 +157,19 @@
                 border-bottom-color: #dd933c;
             }
             a {
-                color: #1a1a1a;
+                color: #DD933C;
             }
             a:hover,
             a:focus,
             .widget_rss li a:hover {
                 color: #dd933c;
+                /* background: -webkit-linear-gradient(#34c8ec 60%, #eaf9fd  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */
+
             }
             .nuss-button {
-                font-size: 15px;
+                font-size: 13px;
                 font-weight: 500;
                 letter-spacing: 1px;
                 line-height: 1.4;
@@ -517,7 +521,7 @@
                 margin-bottom: 60px;
             }
             .page-title.page-title-03 .heading {
-                font-size: 56px;
+                font-size: 45px;
                 font-weight: 700;
                 line-height: 1.211;
                 color: #fff;
@@ -1504,10 +1508,15 @@
                 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
             }
 
-            header.site-header.header-dark .column-wrap a{
+             
+            header.site-header.header-float .column-wrap a{
                 color:#5a5a5a;
             }
+
+            header.site-header.header-float .column-wrap a:hover{
+                color:#dd933c;
+            }
+
             header.site-header .header-button-01 a.nuss-button{
                 color:#fff;
-                font-size: 17px;
             }

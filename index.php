@@ -15,6 +15,8 @@
     <link rel="profile" href="http://gmpg.org/xfn/11" />
     <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_1f43c93ac8ad9b088223645b3a7fec56.css"
         rel="stylesheet" />
+    <!-- <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_7a7a8545e438c6828189a4b89b697268.css"
+        rel="stylesheet" />     -->
     <link media="only screen and (max-width: 768px)"
         href="wp-content/cache/autoptimize/6/css/autoptimize_541e2ced151704f4ff1844c6de47ec02.css" rel="stylesheet" />
     <title>Luxury Resort &#8211; Hotel Booking WordPress Theme</title>
@@ -150,26 +152,12 @@
                         d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
                 </svg>
             </a>
-            <div class="inner-popup">
-                <div class="search-form ajax-search-form">
-                    <form action="https://nuss.uxper.co/luxury-resort/" method="get" class="search-form">
-                        <div class="area-search form-field">
-                            <button type="submit" class="icon-search"><i class="far fa-search large"></i></button>
-                            <div class="form-field input-field">
-                                <input name="s" class="input-search" type="text" value="" placeholder="Search..."
-                                    autocomplete="off" />
-                                <input type="hidden" name="post_type" class="post-type" value="post" />
-                                <div class="search-result area-result"></div>
-                                <div class="nuss-loading-effect"><span class="nuss-dual-ring"></span></div>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
+           
         </div>
 
         <!-- header section -->
         <?php include_once('includes/header.php')?>
+        
 
         <div class="site-content">
             <div class="container">
@@ -212,7 +200,7 @@
                                                                                     <div
                                                                                         class="swiper-slide elementor-repeater-item-aff4885 nuss-slide-bg-animation-ken-burns">
                                                                                         <div class="slide-bg-wrap">
-                                                                                            <div class="slide-bg" style="background-image: url(http://starehe.codeisystems.co.ke/images/property9.png);">
+                                                                                            <div class="slide-bg" style="background-image: url(assets/images/IMG_1709-min.png);">
                                                                                             <div style="background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent); position: absolute;top: 0;left: 0; width: 100%; height: 100%;"></div>
                                                                                             </div>
                                                                                         </div>
@@ -229,9 +217,9 @@
                                                                                                                     class="slide-layer">
                                                                                                                     <h4
                                                                                                                         class="sub-title">
-                                                                                                                        Urban
+                                                                                                                        Coastal
                                                                                                                         &amp;
-                                                                                                                        Unique
+                                                                                                                        Royal
                                                                                                                     </h4>
                                                                                                                 </div>
                                                                                                             </div>
@@ -239,13 +227,8 @@
                                                                                                                 class="slide-layer-wrap title-wrap">
                                                                                                                 <div
                                                                                                                     class="slide-layer">
-                                                                                                                    <h3
-                                                                                                                        class="title">
-                                                                                                                        Unique
-                                                                                                                        <i>Boutique
-                                                                                                                            Hotel</i>
-                                                                                                                        in
-                                                                                                                        Chicago
+                                                                                                                    <h3 class="title">  
+                                                                                                                        <i>Starehe</i>Beachfront villa
                                                                                                                     </h3>
                                                                                                                 </div>
                                                                                                             </div>
@@ -291,13 +274,12 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-modern-heading">
                                                                                     <div class="heading-secondary-wrap">
-                                                                                        <span
-                                                                                            class="heading-secondary elementor-heading-title">Since
-                                                                                            2006</span></div>
+                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Since 2006</span>
+                                                                                    </div>
                                                                                     <div class="heading-primary-wrap">
                                                                                         <h3
                                                                                             class="heading-primary elementor-heading-title">
-                                                                                            Take a virtual tour</h3>
+                                                                                            About Starehe</h3>
                                                                                     </div>
                                                                                     <div
                                                                                         class="heading-description-wrap">
@@ -330,11 +312,9 @@
                                                                                     <a href="about-us/index.html"
                                                                                         class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"
                                                                                         role="button">
-                                                                                        <div
-                                                                                            class="button-content-wrapper">
-                                                                                            <span
-                                                                                                class="button-text">Read
-                                                                                                More</span></div>
+                                                                                        <div class="button-content-wrapper">
+                                                                                            <span class="button-text">Take a virtual tour</span>
+                                                                                        </div>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
@@ -354,7 +334,7 @@
                                                                         href="https://www.youtube.com/watch?v=XHOmBV4js_E">
                                                                         <div class="video-poster">
                                                                             <div class="nuss-image"><img
-                                                                                    src="wp-content/uploads/sites/6/2021/07/about-img-12-1.jpg"
+                                                                                    src="http://starehe.codeisystems.co.ke/images/property9.png"
                                                                                     alt="about-img-12.jpg" /></div>
                                                                             <div class="video-overlay"></div>
                                                                             <div class="video-button">
@@ -378,10 +358,10 @@
                                                             <div class="elementor-widget-container">
                                                                 <figure class="wp-caption">
                                                                     <img width="740" height="960"
-                                                                        src="wp-content/uploads/sites/6/2021/07/about-img-11-1.jpg"
+                                                                        src="http://starehe.codeisystems.co.ke/images/property8.png"
                                                                         class="attachment-full size-full" alt=""
                                                                         loading="lazy" srcset="
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/about-img-11-1.jpg         740w,
+                                                                                http://starehe.codeisystems.co.ke/images/property8.png         740w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/about-img-11-1-231x300.jpg 231w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/about-img-11-1-600x778.jpg 600w
                                                                             "
@@ -421,10 +401,9 @@
                                                                             data-widget_type="nuss-heading.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-modern-heading">
-                                                                                    <div class="heading-secondary-wrap">
-                                                                                        <span
-                                                                                            class="heading-secondary elementor-heading-title">The
-                                                                                            stay</span></div>
+                                                                                <div class="heading-secondary-wrap">
+                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Since 2006</span>
+                                                                                    </div>
                                                                                     <div class="heading-primary-wrap">
                                                                                         <h3
                                                                                             class="heading-primary elementor-heading-title">
@@ -453,15 +432,12 @@
                                                                             data-widget_type="nuss-button.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-ele-button-wrapper">
-                                                                                    <a href="room-grid/index.html"
+                                                                                    <a href="rooms.php"
                                                                                         class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"
                                                                                         role="button">
                                                                                         <div
                                                                                             class="button-content-wrapper">
-                                                                                            <span
-                                                                                                class="button-text">View
-                                                                                                all
-                                                                                                rooms</span></div>
+                                                                                            <span class="button-text">View all rooms</span></div>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
@@ -511,7 +487,7 @@
                                                                                                 class="room-thumbnails nuss-image">
                                                                                                 <a
                                                                                                     href="ux_room/family-suite/index.html">
-                                                                                                    <img src="wp-content/uploads/sites/6/2021/06/photo-1612320582827-a95ab2596dbc-770x550.jpg"
+                                                                                                    <img src="http://starehe.codeisystems.co.ke/images/property8.png"
                                                                                                         alt="Family Suite"
                                                                                                         title="Family Suite" />
                                                                                                 </a>
@@ -624,7 +600,7 @@
                                                                                                 class="room-thumbnails nuss-image">
                                                                                                 <a
                                                                                                     href="ux_room/junior-suite/index.html">
-                                                                                                    <img src="wp-content/uploads/sites/6/2021/06/photo-1611892440504-42a792e24d32-770x550.jpg"
+                                                                                                    <img src="http://starehe.codeisystems.co.ke/images/property5.png"
                                                                                                         alt="Junior Suite"
                                                                                                         title="Junior Suite" />
                                                                                                 </a>
@@ -1457,7 +1433,7 @@
                                                                         src="wp-content/uploads/sites/6/2021/07/photo-1531088009183-5ff5b7c95f91-1.jpg"
                                                                         class="attachment-full size-full" alt=""
                                                                         loading="lazy" srcset="
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1531088009183-5ff5b7c95f91-1.jpeg         668w,
+                                                                                http://starehe.codeisystems.co.ke/images/property7.png         668w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1531088009183-5ff5b7c95f91-1-200x300.jpeg 200w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1531088009183-5ff5b7c95f91-1-600x900.jpeg 600w
                                                                             "
@@ -1488,10 +1464,9 @@
                                                                             data-widget_type="nuss-heading.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-modern-heading">
-                                                                                    <div class="heading-secondary-wrap">
-                                                                                        <span
-                                                                                            class="heading-secondary elementor-heading-title">Eat
-                                                                                            & Drink</span></div>
+                                                                                <div class="heading-secondary-wrap">
+                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Since 2006</span>
+                                                                                    </div>
                                                                                     <div class="heading-primary-wrap">
                                                                                         <h3
                                                                                             class="heading-primary elementor-heading-title">
@@ -1558,14 +1533,14 @@
                                                                         src="wp-content/uploads/sites/6/2021/07/photo-1578884144755-6f1907e23058-1.jpg"
                                                                         class="attachment-full size-full" alt=""
                                                                         loading="lazy" srcset="
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1578884144755-6f1907e23058-1.jpeg         668w,
+                                                                                assets/images/IMG_1709-min.png         668w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1578884144755-6f1907e23058-1-200x300.jpeg 200w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1578884144755-6f1907e23058-1-600x900.jpeg 600w
                                                                             "
                                                                         sizes="(max-width: 668px) 100vw, 668px" />
                                                                     <figcaption
                                                                         class="widget-image-caption wp-caption-text">
-                                                                        Garden Restaurant
+                                                                        Garden dinning
                                                                     </figcaption>
                                                                 </figure>
                                                             </div>
@@ -1574,9 +1549,53 @@
                                                 </div>
                                             </div>
                                         </section>
+
                                         <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-e1b30b8 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-                                            data-id="e1b30b8" data-element_type="section">
+                                            class="elementor-section elementor-top-section elementor-element elementor-element-50787826 elementor-section-stretched elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+                                            data-id="50787826" data-element_type="section"
+                                            data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+                                            <div class="elementor-background-overlay"></div>
+                                            <div class="elementor-container elementor-column-gap-extended">
+                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1067dc92"
+                                                    data-id="1067dc92" data-element_type="column">
+                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                        <div class="elementor-element elementor-element-62656bd8 elementor-invisible elementor-widget elementor-widget-nuss-heading"
+                                                            data-id="62656bd8" data-element_type="widget"
+                                                            data-settings='{"_animation":"nussFadeInUp"}'
+                                                            data-widget_type="nuss-heading.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="nuss-modern-heading">
+                                                                    <div class="heading-secondary-wrap"><span
+                                                                            class="heading-secondary elementor-heading-title">Offers</span>
+                                                                    </div>
+                                                                    <div class="heading-primary-wrap">
+                                                                        <h3 class="heading-primary elementor-heading-title">The ideal getaway for you and your loved ones</h3>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-cd1030b elementor-align-center elementor-invisible elementor-widget elementor-widget-nuss-button"
+                                                            data-id="cd1030b" data-element_type="widget"
+                                                            data-settings='{"_animation":"nussFadeInUp"}'
+                                                            data-widget_type="nuss-button.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="nuss-ele-button-wrapper">
+                                                                    <a href="blog-grid/index.html"
+                                                                        class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"
+                                                                        role="button">
+                                                                        <div class="button-content-wrapper"><span
+                                                                                class="button-text">Other events</span>
+                                                                        </div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>    
+
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-e1b30b8 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="e1b30b8" data-element_type="section">
                                             <div class="elementor-container elementor-column-gap-extended">
                                                 <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4a874d87"
                                                     data-id="4a874d87" data-element_type="column">
@@ -1598,24 +1617,15 @@
                                                                                 <div class="nuss-modern-heading">
                                                                                     <div class="heading-secondary-wrap">
                                                                                         <span
-                                                                                            class="heading-secondary elementor-heading-title">Wellness</span>
+                                                                                            class="heading-secondary elementor-heading-title">Best for last</span>
                                                                                     </div>
                                                                                     <div class="heading-primary-wrap">
-                                                                                        <h3
-                                                                                            class="heading-primary elementor-heading-title">
-                                                                                            A truly luxurious
-                                                                                            experience for the senses
-                                                                                        </h3>
-                                                                                    </div>
+                                                                                        <h3 class="heading-primary elementor-heading-title">Private villa pool </div>
                                                                                     <div
                                                                                         class="heading-description-wrap">
                                                                                         <div
                                                                                             class="heading-description">
-                                                                                            <p>For special rates please
-                                                                                                contact the front
-                                                                                                office: +<strong> 00 044
-                                                                                                    581
-                                                                                                    1111</strong></p>
+                                                                                            <p>Enjoy the private villa pool and  two external large pools among other activities</p>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1633,9 +1643,7 @@
                                                                                         <div
                                                                                             class="button-content-wrapper">
                                                                                             <span
-                                                                                                class="button-text">Find
-                                                                                                our
-                                                                                                more</span></div>
+                                                                                                class="button-text">More activities</span></div>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
@@ -1668,7 +1676,7 @@
                                                                         src="wp-content/uploads/sites/6/2021/07/spa-7-1.jpg"
                                                                         class="attachment-full size-full" alt=""
                                                                         loading="lazy" srcset="
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/spa-7-1.jpg         770w,
+                                                                                http://starehe.codeisystems.co.ke/images/property9.png        770w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/spa-7-1-300x187.jpg 300w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/spa-7-1-768x479.jpg 768w,
                                                                                 https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/spa-7-1-600x374.jpg 600w
@@ -1685,54 +1693,7 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-50787826 elementor-section-stretched elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-                                            data-id="50787826" data-element_type="section"
-                                            data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
-                                            <div class="elementor-background-overlay"></div>
-                                            <div class="elementor-container elementor-column-gap-extended">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1067dc92"
-                                                    data-id="1067dc92" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-62656bd8 elementor-invisible elementor-widget elementor-widget-nuss-heading"
-                                                            data-id="62656bd8" data-element_type="widget"
-                                                            data-settings='{"_animation":"nussFadeInUp"}'
-                                                            data-widget_type="nuss-heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="nuss-modern-heading">
-                                                                    <div class="heading-secondary-wrap"><span
-                                                                            class="heading-secondary elementor-heading-title">Offers</span>
-                                                                    </div>
-                                                                    <div class="heading-primary-wrap">
-                                                                        <h3
-                                                                            class="heading-primary elementor-heading-title">
-                                                                            Benefit from a 10% discount,
-                                                                            making your reservations with a minimum of 3
-                                                                            days in advance</h3>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-cd1030b elementor-align-center elementor-invisible elementor-widget elementor-widget-nuss-button"
-                                                            data-id="cd1030b" data-element_type="widget"
-                                                            data-settings='{"_animation":"nussFadeInUp"}'
-                                                            data-widget_type="nuss-button.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="nuss-ele-button-wrapper">
-                                                                    <a href="blog-grid/index.html"
-                                                                        class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"
-                                                                        role="button">
-                                                                        <div class="button-content-wrapper"><span
-                                                                                class="button-text">Find our more</span>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
+
                                         <section
                                             class="elementor-section elementor-top-section elementor-element elementor-element-5cdcf294 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
                                             data-id="5cdcf294" data-element_type="section">
@@ -1740,22 +1701,7 @@
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a1abec5"
                                                     data-id="4a1abec5" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-6dcaa1a6 nuss-view-default elementor-widget elementor-widget-nuss-icon"
-                                                            data-id="6dcaa1a6" data-element_type="widget"
-                                                            data-widget_type="nuss-icon.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="nuss-icon">
-                                                                    <div class="nuss-icon-wrap">
-                                                                        <div class="nuss-icon-view first">
-                                                                            <div class="nuss-icon icon nuss-solid-icon">
-                                                                                <i aria-hidden="true"
-                                                                                    class="fab fa-tripadvisor"></i>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                                                        
                                                         <div class="elementor-element elementor-element-2561d5f7 elementor-widget elementor-widget-nuss-heading"
                                                             data-id="2561d5f7" data-element_type="widget"
                                                             data-widget_type="nuss-heading.default">
@@ -1814,9 +1760,7 @@
                                                                                                             class="name">
                                                                                                             Catherine
                                                                                                             Kastner</h4>
-                                                                                                        <span
-                                                                                                            class="position">Trip
-                                                                                                            Advisor</span>
+                                                                                                        
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1854,9 +1798,7 @@
                                                                                                             class="name">
                                                                                                             Slawomir
                                                                                                             Pelikan</h4>
-                                                                                                        <span
-                                                                                                            class="position">Trip
-                                                                                                            Advisor</span>
+                                                                                                        
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1893,9 +1835,7 @@
                                                                                                             Yasaman
                                                                                                             Foroutan
                                                                                                         </h4>
-                                                                                                        <span
-                                                                                                            class="position">Trip
-                                                                                                            Advisor</span>
+                                                                                                        
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1931,9 +1871,7 @@
                                                                                                             class="name">
                                                                                                             Catherine
                                                                                                             Kastner</h4>
-                                                                                                        <span
-                                                                                                            class="position">Trip
-                                                                                                            Advisor</span>
+                                                                                                        
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1950,45 +1888,8 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-3dd367ea elementor-section-full_width elementor-section-gap-beside-no elementor-section-stretched elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-                                            data-id="3dd367ea" data-element_type="section"
-                                            data-settings='{"stretch_section":"section-stretched"}'>
-                                            <div class="elementor-container elementor-column-gap-extended">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4b7c9fa3"
-                                                    data-id="4b7c9fa3" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-7fed2ce7 elementor-widget elementor-widget-nuss-heading"
-                                                            data-id="7fed2ce7" data-element_type="widget"
-                                                            data-widget_type="nuss-heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="nuss-modern-heading">
-                                                                    <div class="heading-secondary-wrap"><span
-                                                                            class="heading-secondary elementor-heading-title">Instagram</span>
-                                                                    </div>
-                                                                    <div class="heading-primary-wrap">
-                                                                        <h3
-                                                                            class="heading-primary elementor-heading-title">
-                                                                            #uxper.co</h3>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-29963c68 elementor-widget elementor-widget-wp-widget-elfsight-instagram-feed"
-                                                            data-id="29963c68" data-element_type="widget"
-                                                            data-widget_type="wp-widget-elfsight-instagram-feed.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="elfsight-widget-instagram-feed elfsight-widget"
-                                                                    data-elfsight-instagram-feed-options="%7B%22sourceType%22%3A%22personalAccount%22%2C%22apiChangesMessage%22%3Anull%2C%22source%22%3A%5B%5D%2C%22personalAccessToken%22%3A%22d9881190-9c52-4f1f-a15a-02531298b6c8%22%2C%22businessAccessToken%22%3A%22%22%2C%22businessAccount%22%3Anull%2C%22businessHashtag%22%3A%22%23eiffeltower%22%2C%22filterOnly%22%3A%5B%22%23luxuryresort%22%5D%2C%22filterExcept%22%3A%5B%5D%2C%22limit%22%3A0%2C%22order%22%3A%22date%22%2C%22layout%22%3A%22slider%22%2C%22postTemplate%22%3A%22tile%22%2C%22columns%22%3A5%2C%22rows%22%3A1%2C%22gutter%22%3A0%2C%22responsive%22%3A%5B%7B%22minWidth%22%3A375%2C%22columns%22%3A%221%22%2C%22rows%22%3A1%2C%22gutter%22%3A%220%22%7D%2C%7B%22minWidth%22%3A768%2C%22columns%22%3A3%2C%22rows%22%3A%221%22%2C%22gutter%22%3A%220%22%7D%5D%2C%22width%22%3A%22auto%22%2C%22callToActionButtons%22%3A%5B%7B%22postUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.instagram.com%5C%2Fp%5C%2FBmr7eH0nyxQ%5C%2F%22%2C%22buttonLabel%22%3A%22Install%20Instagram%20Feed%20now%22%2C%22buttonLink%22%3A%22https%3A%5C%2F%5C%2Felfsight.com%5C%2Finstagram-feed-instashow%5C%2F%22%7D%2C%7B%22postUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.instagram.com%5C%2Fp%5C%2FBmgZy5FnnQB%5C%2F%22%2C%22buttonLabel%22%3A%22Install%20Instagram%20Feed%20now%22%2C%22buttonLink%22%3A%22https%3A%5C%2F%5C%2Felfsight.com%5C%2Finstagram-feed-instashow%5C%2F%22%7D%2C%7B%22postUrl%22%3A%22https%3A%5C%2F%5C%2Fwww.instagram.com%5C%2Fp%5C%2FBmbbCfBndRU%5C%2F%22%2C%22buttonLabel%22%3A%22Install%20Instagram%20Feed%20now%22%2C%22buttonLink%22%3A%22https%3A%5C%2F%5C%2Felfsight.com%5C%2Finstagram-feed-instashow%5C%2F%22%7D%5D%2C%22postElements%22%3A%5B%22user%22%2C%22date%22%2C%22instagramLink%22%2C%22likesCount%22%2C%22commentsCount%22%2C%22share%22%2C%22text%22%5D%2C%22popupElements%22%3A%5B%22user%22%2C%22location%22%2C%22followButton%22%2C%22instagramLink%22%2C%22likesCount%22%2C%22share%22%2C%22text%22%2C%22comments%22%2C%22date%22%5D%2C%22imageClickAction%22%3A%22popup%22%2C%22sliderArrows%22%3Afalse%2C%22sliderDrag%22%3Atrue%2C%22sliderSpeed%22%3A0.59999999999999997779553950749686919152736663818359375%2C%22sliderAutoplay%22%3A%22%22%2C%22colorScheme%22%3A%22default%22%2C%22colorPostOverlayBg%22%3A%22rgba%280%2C%200%2C%200%2C%200.8%29%22%2C%22colorPostOverlayText%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorPostBg%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorPostText%22%3A%22rgb%280%2C%200%2C%200%29%22%2C%22colorPostLinks%22%3A%22rgb%280%2C%2053%2C%20107%29%22%2C%22colorSliderArrows%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorSliderArrowsBg%22%3A%22rgba%280%2C%200%2C%200%2C%200.9%29%22%2C%22colorGridLoadMoreButton%22%3A%22rgb%2856%2C%20151%2C%20240%29%22%2C%22colorPopupOverlay%22%3A%22rgba%2843%2C%2043%2C%2043%2C%200.9%29%22%2C%22colorPopupBg%22%3A%22rgb%28255%2C%20255%2C%20255%29%22%2C%22colorPopupText%22%3A%22rgb%280%2C%200%2C%200%29%22%2C%22colorPopupLinks%22%3A%22rgb%280%2C%2053%2C%20105%29%22%2C%22colorPopupFollowButton%22%3A%22rgb%2856%2C%20151%2C%20240%29%22%2C%22colorPopupCtaButton%22%3A%22rgb%2856%2C%20151%2C%20240%29%22%2C%22widgetTitle%22%3A%22%22%2C%22lang%22%3A%22en%22%2C%22apiUrl%22%3A%22https%3A%5C%2F%5C%2Fnuss.uxper.co%5C%2Fluxury-resort%5C%2Fwp-json%5C%2Felfsight-instagram-feed%5C%2Fapi%22%2C%22apiProxyUrl%22%3A%22https%3A%5C%2F%5C%2Fnuss.uxper.co%5C%2Fluxury-resort%5C%2Fwp-json%5C%2Felfsight-instagram-feed%22%2C%22widgetId%22%3A%226%22%7D"
-                                                                    data-elfsight-instagram-feed-version="4.0.2"
-                                                                    data-elfsight-widget-id="elfsight-instagram-feed-6">
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>
+
+                                     
                                     </div>
                                 </div>
                             </div>
@@ -1997,375 +1898,8 @@
                 </div>
             </div>
         </div>
-        <footer id="footer" class="site-footer">
-            <div data-elementor-type="wp-post" data-elementor-id="4348" class="elementor elementor-4348"
-                data-elementor-settings="[]">
-                <div class="elementor-section-wrap">
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-a33b7c1 elementor-section-stretched elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-                        data-id="a33b7c1" data-element_type="section"
-                        data-settings='{"stretch_section":"section-stretched"}'>
-                        <div class="elementor-container elementor-column-gap-extended">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-90fc4e3"
-                                data-id="90fc4e3" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <section
-                                        class="elementor-section elementor-inner-section elementor-element elementor-element-66f520a elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-                                        data-id="66f520a" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-extended">
-                                            <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4882d76"
-                                                data-id="4882d76" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-9f2235b elementor-widget elementor-widget-image"
-                                                        data-id="9f2235b" data-element_type="widget"
-                                                        data-widget_type="image.default">
-                                                        <div class="elementor-widget-container">
-                                                            <a href="#"> <img
-                                                                    src="wp-content/uploads/sites/6/2021/06/logo-black-boutiqe-1.svg"
-                                                                    class="attachment-full size-full" alt=""
-                                                                    loading="lazy" /> </a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-6765a16 nuss-list-layout-block elementor-widget elementor-widget-nuss-list"
-                                                        data-id="6765a16" data-element_type="widget"
-                                                        data-widget_type="nuss-list.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="nuss-list">
-                                                                <div class="item">
-                                                                    <div class="link">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">
-                                                                                    E.
-                                                                                    <a href="https://nuss.uxper.co/cdn-cgi/l/email-protection"
-                                                                                        class="__cf_email__"
-                                                                                        data-cfemail="c7afa2ababa887a9b2b4b4b0b7e9a4a8aa">
-                                                                                        [email&#160;protected]
-                                                                                    </a>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <div class="link">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">T. + 41 463 23 445
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <div class="link">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">
-                                                                                    Add. 929 Border Street Satellite
-                                                                                    <br />
-                                                                                    Beach, FL 32937
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-70ca861"
-                                                data-id="70ca861" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-00ec0ed elementor-widget elementor-widget-nuss-heading"
-                                                        data-id="00ec0ed" data-element_type="widget"
-                                                        data-widget_type="nuss-heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="nuss-modern-heading">
-                                                                <div class="heading-primary-wrap">
-                                                                    <h3 class="heading-primary elementor-heading-title">
-                                                                        General</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-465ea26 nuss-list-layout-block elementor-widget elementor-widget-nuss-list"
-                                                        data-id="465ea26" data-element_type="widget"
-                                                        data-widget_type="nuss-list.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="nuss-list">
-                                                                <div class="item">
-                                                                    <a class="link" href="room-grid/index.html">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">Accommodation</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <a class="link" href="restaurant/index.html">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">Dine &amp; Drink</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <a class="link" href="spa/index.html">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">Spa &amp; Leisure
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <a class="link" href="services/index.html">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">Services</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fa36409"
-                                                data-id="fa36409" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-792b86e elementor-widget elementor-widget-nuss-heading"
-                                                        data-id="792b86e" data-element_type="widget"
-                                                        data-widget_type="nuss-heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="nuss-modern-heading">
-                                                                <div class="heading-primary-wrap">
-                                                                    <h3 class="heading-primary elementor-heading-title">
-                                                                        Sign up for our newsletter to
-                                                                        receive special offers, news, and events.</h3>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-8cee761 nuss-mailchimp-form-style-01 nuss-form-align-stretch nuss-button-align-stretch elementor-widget elementor-widget-nuss-mailchimp-form"
-                                                        data-id="8cee761" data-element_type="widget"
-                                                        data-widget_type="nuss-mailchimp-form.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="nuss-mailchimp-form uxper-form">
-                                                                <script data-cfasync="false"
-                                                                    src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
-                                                                </script>
-                                                                <script>
-                                                                (function() {
-                                                                    window.mc4wp = window.mc4wp || {
-                                                                        listeners: [],
-                                                                        forms: {
-                                                                            on: function(evt, cb) {
-                                                                                window.mc4wp.listeners
-                                                                            .push({
-                                                                                    event: evt,
-                                                                                    callback: cb,
-                                                                                });
-                                                                            },
-                                                                        },
-                                                                    };
-                                                                })();
-                                                                </script>
-                                                                <form id="mc4wp-form-1"
-                                                                    class="mc4wp-form mc4wp-form-1119" method="post"
-                                                                    data-id="1119" data-name="Follow Us">
-                                                                    <div class="mc4wp-form-fields">
-                                                                        <p>
-                                                                            <label>Email address: <input type="email"
-                                                                                    name="EMAIL"
-                                                                                    placeholder="Your email address"
-                                                                                    required /> </label>
-                                                                        </p>
-                                                                        <p><input type="submit" value="Sign up" /></p>
-                                                                    </div>
-                                                                    <label style="display: none !important;">
-                                                                        Leave this field empty if you're human: <input
-                                                                            type="text" name="_mc4wp_honeypot" value=""
-                                                                            tabindex="-1" autocomplete="off" />
-                                                                    </label>
-                                                                    <input type="hidden" name="_mc4wp_timestamp"
-                                                                        value="1630902283" /><input type="hidden"
-                                                                        name="_mc4wp_form_id" value="1119" />
-                                                                    <input type="hidden" name="_mc4wp_form_element_id"
-                                                                        value="mc4wp-form-1" />
-                                                                    <div class="mc4wp-response"></div>
-                                                                </form>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                    <section
-                                        class="elementor-section elementor-inner-section elementor-element elementor-element-c7944c2 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-                                        data-id="c7944c2" data-element_type="section">
-                                        <div class="elementor-container elementor-column-gap-extended">
-                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-85638a6"
-                                                data-id="85638a6" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-3e3571a elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                                        data-id="3e3571a" data-element_type="widget"
-                                                        data-widget_type="text-editor.default">
-                                                        <div class="elementor-widget-container">
-                                                            <p>Copyright 2021 by uxper.co</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-37ec560 nuss-list-layout-inline elementor-widget__width-auto elementor-widget elementor-widget-nuss-list"
-                                                        data-id="37ec560" data-element_type="widget"
-                                                        data-widget_type="nuss-list.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="nuss-list">
-                                                                <div class="item">
-                                                                    <a class="link" href="privacy-policy/index.html">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">Privacy Policy</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <a class="link" href="#">
-                                                                        <div class="list-header">
-                                                                            <div class="text-wrap">
-                                                                                <div class="text">Sitemap</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f2490d6"
-                                                data-id="f2490d6" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-d6f109d elementor-widget elementor-widget-nuss-social-networks"
-                                                        data-id="d6f109d" data-element_type="widget"
-                                                        data-widget_type="nuss-social-networks.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="nuss-social-networks style-icons layout-inline">
-                                                                <ul class="list">
-                                                                    <li class="item elementor-repeater-item-d24d286">
-                                                                        <a class="link" aria-label="Facebook"
-                                                                            href="https://www.facebook.com/"
-                                                                            target="_blank" rel="nofollow"> <i
-                                                                                class="link-icon fab fa-facebook-f"></i>
-                                                                        </a>
-                                                                    </li>
-                                                                    <li class="item elementor-repeater-item-222b104">
-                                                                        <a class="link" aria-label="Twitter"
-                                                                            href="https://www.twitter.com/"
-                                                                            target="_blank" rel="nofollow"> <i
-                                                                                class="link-icon fab fa-twitter"></i>
-                                                                        </a>
-                                                                    </li>
-                                                                    <li class="item elementor-repeater-item-b6d5d28">
-                                                                        <a class="link" aria-label="Instagram"
-                                                                            href="https://www.instagram.com/"
-                                                                            target="_blank" rel="nofollow"> <i
-                                                                                class="link-icon fab fa-instagram"></i>
-                                                                        </a>
-                                                                    </li>
-                                                                    <li class="item elementor-repeater-item-243cf76">
-                                                                        <a class="link" aria-label="Tripadvisor"
-                                                                            href="https://www.tripadvisor.com/"
-                                                                            target="_blank" rel="nofollow"> <i
-                                                                                class="link-icon fab fa-tripadvisor"></i>
-                                                                        </a>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </footer>
-        <div id="canvas-check-availabity" class="nuss-popup check-availabity-popup type-01">
-            <div class="bg-overlay"></div>
-            <a href="#" class="btn-close"> <i class="fal fa-times large"></i> </a>
-            <div class="inner-popup custom-scrollbar">
-                <h3 class="entry-heading">Check Availabity</h3>
-                <form action="https://nuss.uxper.co/luxury-resort/" class="ux-booking-form ux-room-calendar gap-20"
-                    method="GET">
-                    <div
-                        class="ux-room-datepick-calendar ux-room-datepick-popup ux-room-check-in-out calendar--range-on">
-                    </div>
-                    <div class="form-group gap-item"><label>Check in - Check out</label> <input type="text"
-                            class="primary-color form-control ux-room-input-popup" name="ux_room_check_in_out"
-                            required /></div>
-                    <div class="form-group form-toggle area-booking gap-item">
-                        <div class="open-toggle">
-                            <label>Rooms / Guests</label>
-                            <div class="show-data primary-color">
-                                <div class="inner-data">
-                                    <span class="ux_room_amount"><span>1</span> Room</span> , <span
-                                        class="ux_room_adults"><span>1</span>
-                                        Adult</span> , <span class="ux_room_childrens"><span>0</span> Children</span>
-                                </div>
-                                <i class="fal fa-chevron-down"></i>
-                            </div>
-                        </div>
-                        <div class="inner-toggle">
-                            <div class="amount">
-                                <span>Rooms</span>
-                                <div class="product-quantity">
-                                    <div class="minus btn-quantity"><i class="fal fa-minus"></i></div>
-                                    <input class="input-text qty text" type="number" value="1" name="ux_room_amount"
-                                        data-default="4" min="1" max="4" step="1" />
-                                    <div class="plus btn-quantity"><i class="fal fa-plus"></i></div>
-                                </div>
-                            </div>
-                            <div class="adult">
-                                <span>Adults</span>
-                                <div class="product-quantity">
-                                    <div class="minus btn-quantity"><i class="fal fa-minus"></i></div>
-                                    <input class="input-text qty text" type="number" value="1" name="ux_room_adults"
-                                        data-default="4" min="1" max="4" step="1" />
-                                    <div class="plus btn-quantity"><i class="fal fa-plus"></i></div>
-                                </div>
-                            </div>
-                            <div class="children">
-                                <span>Childrens</span>
-                                <div class="product-quantity">
-                                    <div class="minus btn-quantity"><i class="fal fa-minus"></i></div>
-                                    <input class="input-text qty text" type="number" value="0" name="ux_room_childrens"
-                                        data-default="2" min="0" max="2" step="1" />
-                                    <div class="plus btn-quantity"><i class="fal fa-plus"></i></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="bottom-form gap-item">
-                        <input type="hidden" class="search-field" name="s" /> <input type="hidden" name="post_type"
-                            value="ux_room" />
-                        <button type="submit" class="btn-submit btn nuss-button full-filled wide uppercase">Check
-                            Availabity</button>
-                    </div>
-                </form>
-            </div>
-        </div>
+        <?php include_once('includes/footer.php')?>
+        
     </div>
     <script>
     (function() {
