@@ -15,19 +15,19 @@
             .nuss-ldef-ellipsis span,
             .nuss-ldef-grid span,
             .nuss-ldef-spinner span:after {
-                background-color: #dd933c;
+                background-color: #10a8cd;
             }
             .nuss-ldef-ripple span {
-                border-color: #dd933c;
+                border-color: #10a8cd;
             }
             .nuss-ldef-dual-ring:after,
             .nuss-ldef-ring span,
             .nuss-ldef-hourglass:after {
-                border-top-color: #dd933c;
+                border-top-color: #10a8cd;
             }
             .nuss-ldef-dual-ring:after,
             .nuss-ldef-hourglass:after {
-                border-bottom-color: #dd933c;
+                border-bottom-color: #10a8cd;
             }
             body {
                 font-family: Jost;
@@ -118,7 +118,7 @@
             input[type="password"]:focus,
             input[type="number"]:focus,
             input[type="search"]:focus {
-                border-color: #dd933c;
+                border-color: #10a8cd;
             }
             .accent-background,
             .calendar .calendar-legend-item.calendar--today .calendar-box,
@@ -150,19 +150,19 @@
             .single .post-tags a:hover,
             .wp-block-search .wp-block-search__button,
             .wp-block-tag-cloud a:hover {
-                background-color: #dd933c;
+                background-color: #10a8cd;
             }
             .uxper-dual-ring:after {
-                border-top-color: #dd933c;
-                border-bottom-color: #dd933c;
+                border-top-color: #10a8cd;
+                border-bottom-color: #10a8cd;
             }
             a {
-                color: #DD933C;
+                color: #10a8cd;
             }
             a:hover,
             a:focus,
             .widget_rss li a:hover {
-                color: #dd933c;
+                color: #10a8cd;
                 /* background: -webkit-linear-gradient(#34c8ec 60%, #eaf9fd  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; */
@@ -193,11 +193,11 @@
             }
             .nuss-button.underline:hover,
             .nuss-button.underline:focus {
-                color: #dd933c;
+                color: #10a8cd;
             }
             .nuss-button.full-filled {
                 color: #ffffff;
-                background-color: #dd933c;
+                background-color: #10a8cd;
                 padding-top: 11px;
                 padding-right: 32px;
                 padding-bottom: 11px;
@@ -232,7 +232,7 @@
             }
             .nuss-button.line:hover,
             .nuss-button.line:focus {
-                color: #dd933c;
+                color: #10a8cd;
             }
             html {
                 background-color: #ffffff;
@@ -259,7 +259,7 @@
             }
             header.site-header .header-button-01 a.nuss-button {
                 color: #fff;
-                background-color: #dd933c;
+                background-color: #10a8cd;
                 border-style: none;
                 text-transform: uppercase;
                 max-width: 300px;
@@ -273,7 +273,7 @@
             }
             header.site-header .header-button-02 a.nuss-button {
                 color: #fff;
-                background-color: #dd933c;
+                background-color: #10a8cd;
                 border-style: none;
                 text-transform: uppercase;
                 max-width: 100px;
@@ -352,7 +352,7 @@
             }
             .ux-element.header-search-input .icon-search {
                 font-size: 16px;
-                color: #dd933c;
+                color: #10a8cd;
             }
             .ux-element.header-device > span {
                 background: #0d0909;
@@ -497,8 +497,7 @@
                 color: #5a5a5a;
             }
             .page-title.page-title-03 .page-title-bg {
-                background: #a7a7a7;
-                background-color: #a7a7a7;
+                background: rgba(235,158,44,32%);
                 background-repeat: no-repeat;
                 background-position: center center;
                 background-attachment: scroll;
@@ -508,9 +507,7 @@
                 -o-background-size: cover;
                 background-size: cover;
             }
-            .page-title.page-title-03 .page-title-bg:before {
-                background-color: rgba(0, 0, 0, 0);
-            }
+
             .page-title.page-title-03 .page-title-inner {
                 border-bottom-width: 0px;
                 border-bottom-color: rgba(0, 0, 0, 0);
@@ -521,10 +518,10 @@
                 margin-bottom: 60px;
             }
             .page-title.page-title-03 .heading {
-                font-size: 45px;
+                font-size: 35px;
                 font-weight: 700;
                 line-height: 1.211;
-                color: #fff;
+                color: #1a1a1a;
             }
             .page-title.page-title-03 .nuss_breadcrumb li,
             .page-title.page-title-03 .nuss_breadcrumb li a {
@@ -1508,15 +1505,62 @@
                 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
             }
 
-             
+
             header.site-header.header-float .column-wrap a{
                 color:#5a5a5a;
             }
 
             header.site-header.header-float .column-wrap a:hover{
-                color:#dd933c;
+                color:#10a8cd;
             }
 
             header.site-header .header-button-01 a.nuss-button{
                 color:#fff;
+            }
+
+            .font-15{
+              font-size:15px;
+            }
+
+            .font-25{
+              font-size:25px;
+            }
+            .m-bottom-10{
+              margin-bottom: 10px;
+            }
+            /* dinning page styling*/
+            .elementor-image-box-description{
+              font-size:15px;
+            }
+
+            .elementor-image-box-title{
+              margin-bottom:7px
+            }
+
+            .elementor-image-box-img{
+              margin-right:20px;
+              width: 40%
+            }
+            .elementor-widget-container{
+              margin-bottom:25px;
+            }
+
+            .nuss-swiper .swiper-nav-button{
+              margin:-40px;
+            }
+            .elementor .elementor-widget:not(.elementor-widget-text-editor):not(.elementor-widget-theme-post-content) figure{
+              margin-right: 20px
+            }
+            .nuss-swiper .swiper-slide{
+              text-align:center;
+            }
+            .elementor-widget-nuss-testimonial.layout-image-top .swiper-slide{
+              padding-top:0px;
+            }
+            .elementor-widget-nuss-testimonial.layout-image-top .testimonial-item{
+              padding-top:0px;
+            }
+
+            @media (max-width: 767px).elementor-widget-wrap .elementor-element.elementor-widget-mobile__width-auto, .elementor-widget-wrap .elementor-element.elementor-widget-mobile__width-initial{
+                max-width:50%
             }

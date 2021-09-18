@@ -89,14 +89,7 @@
             })(window, document, window._wpemojiSettings);
         </script>
         <style id="nuss-style-inline-css">
-            .page-title-bg {
-                background-image: url(http://starehe.codeisystems.co.ke/images/property8.png) !important;
-            }
-            .page-title-bg:before {
-                background-color: rgba(0, 0, 0, 0.19) !important;
-            }
-            .lg-backdrop {
-            }
+
         </style>
         <link rel="stylesheet" id="nuss-header-style-css" href="wp-content/uploads/sites/6/nuss/header/header-01.css" media="all" />
         <link rel="stylesheet" id="elementor-post-4735-css" href="wp-content/cache/autoptimize/6/css/autoptimize_single_818012e4388a3ce13001eeaba0a6c771.css" media="all" />
@@ -160,17 +153,18 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- header section -->
             <?php include_once('includes/header.php')?>
 
             <div id="page-title" class="page-title page-title-03">
-                <div class="page-title-inner" style="padding-top: 180px; padding-bottom: 80px;">
+                <div class="page-title-inner" style="padding-top: 140px; padding-bottom: 40px;">
                     <div class="page-title-bg"></div>
                     <div class="container">
                         <div class="row row-xs-center">
-                            <div class="col-md-12">
-                                <div class="page-title-heading"><h1 class="heading heading-font">Bedrooms</h1></div>
+                                <div class="col-md-12">
+                                <img src="https://nuss.uxper.co/beach-hotel/wp-content/uploads/sites/2/2021/05/icon-wave-4.svg" title="" alt="" class="" style="margin: ;padding: 0 429px 20px;">
+                                <div class="page-title-heading"><h1 class="heading heading-font">Starehe bedrooms</h1></div>
                             </div>
                         </div>
                     </div>
@@ -188,7 +182,7 @@
                                 <div class="entry-content">
                                     <div data-elementor-type="wp-page" data-elementor-id="4450" class="elementor elementor-4450" data-elementor-settings="[]">
                                         <div class="elementor-section-wrap">
-                                            
+
                                             <section
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-92f4e08 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
                                                 data-id="92f4e08"
@@ -210,10 +204,10 @@
                                                                             class="nuss-query-input"
                                                                             value='{"source":"custom_query","action":"ux_room_infinite_load","max_num_pages":2,"found_posts":8,"count":6,"query_vars":{"post_type":"ux_room","posts_per_page":6,"post_status":"publish","orderby":"date","order":"DESC","paged":1},"settings":{"thumbnail_default_size":"","thumbnail_size":"custom","thumbnail_custom_dimension":{"width":"510","height":"360"},"grid_gutter":null,"filter_enable":"yes","pagination_type":"navigation","query_number":6,"grid_gutter_tablet":null,"layout":"list","hover_effect":"zoom-in","show_thumbnail":"1","show_excerpt":"yes","show_meta":"yes","grid_columns":null,"grid_columns_tablet":null,"grid_columns_mobile":null,"grid_gutter_mobile":null,"row_gap":null,"row_gap_tablet":null,"row_gap_mobile":null,"filter_style":"01","filter_counter":"","filter_in_grid":"","thumbnail_border_radius":{"unit":"px","size":"","sizes":[]},"thumbnail_box_shadow_box_shadow_type":"","thumbnail_box_shadow_box_shadow":null,"thumbnail_box_shadow_box_shadow_position":null,"css_filters_css_filter":"","css_filters_blur":null,"css_filters_brightness":null,"css_filters_contrast":null,"css_filters_saturate":null,"css_filters_hue":null,"thumbnail_opacity":{"unit":"px","size":"","sizes":[]},"thumbnail_box_shadow_hover_box_shadow_type":"","thumbnail_box_shadow_hover_box_shadow":null,"thumbnail_box_shadow_hover_box_shadow_position":null,"css_filters_hover_css_filter":"","css_filters_hover_blur":null,"css_filters_hover_brightness":null,"css_filters_hover_contrast":null,"css_filters_hover_saturate":null,"css_filters_hover_hue":null,"thumbnail_opacity_hover":{"unit":"px","size":"","sizes":[]},"pagination_alignment":"center","pagination_alignment_tablet":"","pagination_alignment_mobile":"","pagination_spacing":{"unit":"px","size":"","sizes":[]},"pagination_spacing_tablet":{"unit":"px","size":"","sizes":[]},"pagination_spacing_mobile":{"unit":"px","size":"","sizes":[]},"pagination_typography_typography":"","pagination_typography_font_family":null,"pagination_typography_font_size":null,"pagination_typography_font_size_tablet":null,"pagination_typography_font_size_mobile":null,"pagination_typography_font_weight":null,"pagination_typography_text_transform":null,"pagination_typography_font_style":null,"pagination_typography_text_decoration":null,"pagination_typography_line_height":null,"pagination_typography_line_height_tablet":null,"pagination_typography_line_height_mobile":null,"pagination_typography_letter_spacing":null,"pagination_typography_letter_spacing_tablet":null,"pagination_typography_letter_spacing_mobile":null,"pagination_link_color":"","pagination_link_hover_color":"","pagination_loading_color":"","query_source":"custom_query","query_include":"","query_exclude":"","query_orderby":"date","query_sort_meta_key":null,"query_order":"DESC","_title":"","_margin":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_margin_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_padding_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_z_index":"","_z_index_tablet":"","_z_index_mobile":"","_element_id":"","_css_classes":"","_animation":"","_animation_tablet":"","_animation_mobile":"","animation_duration":null,"_animation_delay":null,"_background_background":"","_background_color":null,"_background_color_stop":null,"_background_color_b":null,"_background_color_b_stop":null,"_background_gradient_type":null,"_background_gradient_angle":null,"_background_gradient_position":null,"_background_image":null,"_background_image_tablet":null,"_background_image_mobile":null,"_background_position":null,"_background_position_tablet":null,"_background_position_mobile":null,"_background_xpos":null,"_background_xpos_tablet":null,"_background_xpos_mobile":null,"_background_ypos":null,"_background_ypos_tablet":null,"_background_ypos_mobile":null,"_background_attachment":null,"_background_repeat":null,"_background_repeat_tablet":null,"_background_repeat_mobile":null,"_background_size":null,"_background_size_tablet":null,"_background_size_mobile":null,"_background_bg_width":null,"_background_bg_width_tablet":null,"_background_bg_width_mobile":null,"_background_video_link":null,"_background_video_start":null,"_background_video_end":null,"_background_play_once":null,"_background_play_on_mobile":null,"_background_privacy_mode":null,"_background_video_fallback":null,"_background_slideshow_gallery":null,"_background_slideshow_loop":null,"_background_slideshow_slide_duration":null,"_background_slideshow_slide_transition":null,"_background_slideshow_transition_duration":null,"_background_slideshow_background_size":null,"_background_slideshow_background_size_tablet":null,"_background_slideshow_background_size_mobile":null,"_background_slideshow_background_position":null,"_background_slideshow_background_position_tablet":null,"_background_slideshow_background_position_mobile":null,"_background_slideshow_ken_burns":null,"_background_slideshow_ken_burns_zoom_direction":null,"_background_hover_background":"","_background_hover_color":null,"_background_hover_color_stop":null,"_background_hover_color_b":null,"_background_hover_color_b_stop":null,"_background_hover_gradient_type":null,"_background_hover_gradient_angle":null,"_background_hover_gradient_position":null,"_background_hover_image":null,"_background_hover_image_tablet":null,"_background_hover_image_mobile":null,"_background_hover_position":null,"_background_hover_position_tablet":null,"_background_hover_position_mobile":null,"_background_hover_xpos":null,"_background_hover_xpos_tablet":null,"_background_hover_xpos_mobile":null,"_background_hover_ypos":null,"_background_hover_ypos_tablet":null,"_background_hover_ypos_mobile":null,"_background_hover_attachment":null,"_background_hover_repeat":null,"_background_hover_repeat_tablet":null,"_background_hover_repeat_mobile":null,"_background_hover_size":null,"_background_hover_size_tablet":null,"_background_hover_size_mobile":null,"_background_hover_bg_width":null,"_background_hover_bg_width_tablet":null,"_background_hover_bg_width_mobile":null,"_background_hover_video_link":null,"_background_hover_video_start":null,"_background_hover_video_end":null,"_background_hover_play_once":null,"_background_hover_play_on_mobile":null,"_background_hover_privacy_mode":null,"_background_hover_video_fallback":null,"_background_hover_slideshow_gallery":null,"_background_hover_slideshow_loop":null,"_background_hover_slideshow_slide_duration":null,"_background_hover_slideshow_slide_transition":null,"_background_hover_slideshow_transition_duration":null,"_background_hover_slideshow_background_size":null,"_background_hover_slideshow_background_size_tablet":null,"_background_hover_slideshow_background_size_mobile":null,"_background_hover_slideshow_background_position":null,"_background_hover_slideshow_background_position_tablet":null,"_background_hover_slideshow_background_position_mobile":null,"_background_hover_slideshow_ken_burns":null,"_background_hover_slideshow_ken_burns_zoom_direction":null,"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_border":"","_border_width":null,"_border_width_tablet":null,"_border_width_mobile":null,"_border_color":null,"_border_radius":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_radius_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_radius_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_box_shadow_type":"","_box_shadow_box_shadow":null,"_box_shadow_box_shadow_position":null,"_border_hover_border":"","_border_hover_width":null,"_border_hover_width_tablet":null,"_border_hover_width_mobile":null,"_border_hover_color":null,"_border_radius_hover":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_radius_hover_tablet":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_border_radius_hover_mobile":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":true},"_box_shadow_hover_box_shadow_type":"","_box_shadow_hover_box_shadow":null,"_box_shadow_hover_box_shadow_position":null,"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_mask_switch":"","_mask_shape":null,"_mask_image":null,"_mask_notice":null,"_mask_size":null,"_mask_size_tablet":null,"_mask_size_mobile":null,"_mask_size_scale":null,"_mask_size_scale_tablet":null,"_mask_size_scale_mobile":null,"_mask_position":null,"_mask_position_tablet":null,"_mask_position_mobile":null,"_mask_position_x":null,"_mask_position_x_tablet":null,"_mask_position_x_mobile":null,"_mask_position_y":null,"_mask_position_y_tablet":null,"_mask_position_y_mobile":null,"_mask_repeat":null,"_mask_repeat_tablet":null,"_mask_repeat_mobile":null,"_element_width":"","_element_width_tablet":"","_element_width_mobile":"","_element_custom_width":null,"_element_custom_width_tablet":null,"_element_custom_width_mobile":null,"_element_vertical_align":null,"_element_vertical_align_tablet":null,"_element_vertical_align_mobile":null,"_position":"","_offset_orientation_h":null,"_offset_x":null,"_offset_x_tablet":null,"_offset_x_mobile":null,"_offset_x_end":null,"_offset_x_end_tablet":null,"_offset_x_end_mobile":null,"_offset_orientation_v":null,"_offset_y":null,"_offset_y_tablet":null,"_offset_y_mobile":null,"_offset_y_end":null,"_offset_y_end_tablet":null,"_offset_y_end_mobile":null,"hide_desktop":"","hide_tablet":"","hide_mobile":""},"widget_query":true}'
                                                                         />
-                                                                        
+
                                                                         <div class="nuss-grid grid-room wrap-room-list" data-grid='{"type":"list"}'>
                                                                             <div class="grid-sizer"></div>
-                                                                            
+
                                                                             <!-- room list -->
                                                                             <div class="loop-room grid-item nuss-box post-2485 ux_room type-ux_room status-publish has-post-thumbnail hentry ux_room_type-family-suite ux_room_amenities-balcony-or-terrace ux_room_amenities-breakfast-included ux_room_amenities-flat-screen-tv ux_room_amenities-hairdryer ux_room_amenities-iron-ironing-board ux_room_amenities-kettle-tea-coffee ux_room_amenities-saving-safe ux_room_amenities-shower-bathtub ux_room_amenities-telephone ux_room_amenities-towel-warmer ux_room_amenities-wifi-access ux_room_amenities-writing-desk ux_room_services-airport-pick-up ux_room_services-laundry-service">
                                                                                 <div class="inner-room-wrap">
@@ -246,8 +240,8 @@
                                                                                                                 />
                                                                                                             </a>
                                                                                                         </div>
-                                                                                                        
-                                                                                                        
+
+
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -344,44 +338,30 @@
                                                                                                         <div class="swiper-slide">
                                                                                                             <a href="../ux_room/family-suite/index.html">
                                                                                                                 <img
-                                                                                                                    src="wp-content/uploads/sites/6/2021/06/photo-1612320582827-a95ab2596dbc-510x360.jpg"
+                                                                                                                    src="http://starehe.codeisystems.co.ke/images/property8.png"
                                                                                                                     alt="Family Suite"
                                                                                                                     title="Family Suite"
                                                                                                                 />
                                                                                                             </a>
                                                                                                         </div>
-                                                                                                        
-                                                                                                        
+
+
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                     <div class="room-detail" style="">
-
-                                                                                        <div class="room-price accent-color"> <span class="suffix-price"> Fetha mchangani </span></div>
+                                                                                    <div class="room-price accent-color"> <span class="suffix-price"> Dhahabu mchangani </span></div>
                                                                                         <div class="room-title">
-                                                                                            <h3 class="entry-title heading-font"><a href="../ux_room/family-suite/index.html" rel="bookmark">Family Suite</a></h3>
+                                                                                            <h3 class="entry-title heading-font"><a href="room.php" rel="bookmark" >Family Suite</a></h3>
                                                                                         </div>
                                                                                         <div class="room-meta gap-30">
-                                                                                            <div class="entry-detail gap-item">
+                                                                                        <div class="entry-detail gap-item">
                                                                                                 <div class="icon">
-                                                                                                    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="24" viewBox="0 0 28 24">
-                                                                                                        <g fill="none" fill-rule="evenodd">
-                                                                                                            <g fill="#000" fill-rule="nonzero">
-                                                                                                                <g>
-                                                                                                                    <g>
-                                                                                                                        <path
-                                                                                                                            d="M27.402 22.052l-.91-3.196c-.042-.147-.175-.256-.337-.277-.162-.02-.32.053-.402.185l-1.055 1.698-2.635-1.442V10.65c0-.02-.003-.04-.007-.06.004-.016.006-.031.007-.046 0-.134-.076-.258-.2-.325L14.118 5.98V3.133h2.1c.164 0 .31-.092.373-.232.062-.141.028-.303-.088-.41L14 .15c-.157-.146-.412-.146-.57 0l-2.504 2.34c-.115.107-.15.269-.087.41.062.14.21.232.372.232h2.1V5.98l-7.745 4.238c-.123.067-.2.19-.2.325l.007.046c-.004.02-.006.04-.006.06v8.37L2.73 20.463l-1.054-1.699c-.082-.132-.24-.204-.403-.184-.161.02-.294.129-.336.276l-.91 3.197c-.058.201.07.407.286.461l3.423.85c.157.04.325-.014.424-.135.099-.121.11-.286.028-.418l-1.053-1.697 2.634-1.441 7.741 4.235.015.006c.022.01.045.02.069.027l.024.007c.063.016.129.016.191 0l.023-.007c.024-.007.047-.016.07-.027.004-.003.01-.003.014-.006l7.744-4.235 2.634 1.442-1.053 1.697c-.073.116-.073.26-.001.377.072.116.205.188.35.188.035 0 .07-.004.103-.012l3.423-.85c.215-.054.343-.26.286-.462zM13.714.951l1.531 1.429h-3.061l1.53-1.43zM.91 21.88l.556-1.953L3.002 22.4.91 21.88zM13.714 6.632l7.148 3.91-7.148 3.91-7.147-3.91 7.147-3.91zM6.172 11.2l7.139 3.905v7.82L6.172 19.02V11.2zm7.946 11.725v-7.82l7.138-3.905v7.82l-7.138 3.905zm10.309-.524l1.535-2.473.557 1.953-2.092.52z"
-                                                                                                                            transform="translate(-135 -838) translate(135 710) translate(0 128)"
-                                                                                                                        />
-                                                                                                                    </g>
-                                                                                                                </g>
-                                                                                                            </g>
-                                                                                                        </g>
-                                                                                                    </svg>
+                                                                                                    <img src="https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/dresser-drawers-2.svg" alt="Balcony or Terrace">
                                                                                                 </div>
-                                                                                                <span>80m2</span>
+                                                                                                <span>Terrace</span>
                                                                                             </div>
                                                                                             <div class="entry-detail gap-item">
                                                                                                 <div class="icon">
@@ -402,7 +382,7 @@
                                                                                                         </g>
                                                                                                     </svg>
                                                                                                 </div>
-                                                                                                <span>4 beds</span>
+                                                                                                <span>2 beds</span>
                                                                                             </div>
                                                                                             <div class="entry-detail gap-item">
                                                                                                 <div class="icon">
@@ -437,10 +417,11 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
+
                                                                             <!-- room list end  -->
                                                                          </div>
-                                                                           
-                                                                        
+
+
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -459,7 +440,7 @@
             <?php include_once('includes/footer.php')?>
         </div>
         <div class="demo-directional">
-            
+
             <div class="demo-wrap">
                 <div class="flex-inline">
                     <a class="logo" href="../index.html"><img src="wp-content/themes/nuss-child-demo/assets/images/logo.png" alt="" /></a> <a href="#" class="close"><i class="fal fa-arrow-right"></i></a>

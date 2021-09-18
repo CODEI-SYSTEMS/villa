@@ -152,12 +152,12 @@
                         d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
                 </svg>
             </a>
-           
+
         </div>
 
         <!-- header section -->
         <?php include_once('includes/header.php')?>
-        
+
 
         <div class="site-content">
             <div class="container">
@@ -227,7 +227,7 @@
                                                                                                                 class="slide-layer-wrap title-wrap">
                                                                                                                 <div
                                                                                                                     class="slide-layer">
-                                                                                                                    <h3 class="title">  
+                                                                                                                    <h3 class="title">
                                                                                                                         <i>Starehe</i>Beachfront villa
                                                                                                                     </h3>
                                                                                                                 </div>
@@ -1407,6 +1407,52 @@
                                                 </div>
                                             </div>
                                         </section>
+
+                                        <section
+                                            class="elementor-section elementor-top-section elementor-element elementor-element-50787826 elementor-section-stretched elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
+                                            data-id="50787826" data-element_type="section"
+                                            data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+                                            <div class="elementor-background-overlay"></div>
+                                            <div class="elementor-container elementor-column-gap-extended">
+                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1067dc92"
+                                                    data-id="1067dc92" data-element_type="column">
+                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                        <div class="elementor-element elementor-element-62656bd8 elementor-invisible elementor-widget elementor-widget-nuss-heading"
+                                                            data-id="62656bd8" data-element_type="widget"
+                                                            data-settings='{"_animation":"nussFadeInUp"}'
+                                                            data-widget_type="nuss-heading.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="nuss-modern-heading">
+                                                                    <div class="heading-secondary-wrap"><span
+                                                                            class="heading-secondary elementor-heading-title">Offers</span>
+                                                                    </div>
+                                                                    <div class="heading-primary-wrap">
+                                                                        <h3 class="heading-primary elementor-heading-title">The ideal getaway for you and your loved ones</h3>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-cd1030b elementor-align-center elementor-invisible elementor-widget elementor-widget-nuss-button"
+                                                            data-id="cd1030b" data-element_type="widget"
+                                                            data-settings='{"_animation":"nussFadeInUp"}'
+                                                            data-widget_type="nuss-button.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="nuss-ele-button-wrapper">
+                                                                    <a href="blog-grid/index.html"
+                                                                        class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"
+                                                                        role="button">
+                                                                        <div class="button-content-wrapper"><span
+                                                                                class="button-text">Other events</span>
+                                                                        </div>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>    
+
                                         <section
                                             class="elementor-section elementor-top-section elementor-element elementor-element-36d789fa elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
                                             data-id="36d789fa" data-element_type="section">
@@ -1550,50 +1596,7 @@
                                             </div>
                                         </section>
 
-                                        <section
-                                            class="elementor-section elementor-top-section elementor-element elementor-element-50787826 elementor-section-stretched elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
-                                            data-id="50787826" data-element_type="section"
-                                            data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
-                                            <div class="elementor-background-overlay"></div>
-                                            <div class="elementor-container elementor-column-gap-extended">
-                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1067dc92"
-                                                    data-id="1067dc92" data-element_type="column">
-                                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div class="elementor-element elementor-element-62656bd8 elementor-invisible elementor-widget elementor-widget-nuss-heading"
-                                                            data-id="62656bd8" data-element_type="widget"
-                                                            data-settings='{"_animation":"nussFadeInUp"}'
-                                                            data-widget_type="nuss-heading.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="nuss-modern-heading">
-                                                                    <div class="heading-secondary-wrap"><span
-                                                                            class="heading-secondary elementor-heading-title">Offers</span>
-                                                                    </div>
-                                                                    <div class="heading-primary-wrap">
-                                                                        <h3 class="heading-primary elementor-heading-title">The ideal getaway for you and your loved ones</h3>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="elementor-element elementor-element-cd1030b elementor-align-center elementor-invisible elementor-widget elementor-widget-nuss-button"
-                                                            data-id="cd1030b" data-element_type="widget"
-                                                            data-settings='{"_animation":"nussFadeInUp"}'
-                                                            data-widget_type="nuss-button.default">
-                                                            <div class="elementor-widget-container">
-                                                                <div class="nuss-ele-button-wrapper">
-                                                                    <a href="blog-grid/index.html"
-                                                                        class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"
-                                                                        role="button">
-                                                                        <div class="button-content-wrapper"><span
-                                                                                class="button-text">Other events</span>
-                                                                        </div>
-                                                                    </a>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </section>    
+
 
                                         <section class="elementor-section elementor-top-section elementor-element elementor-element-e1b30b8 elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="e1b30b8" data-element_type="section">
                                             <div class="elementor-container elementor-column-gap-extended">
@@ -1701,7 +1704,7 @@
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4a1abec5"
                                                     data-id="4a1abec5" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        
+
                                                         <div class="elementor-element elementor-element-2561d5f7 elementor-widget elementor-widget-nuss-heading"
                                                             data-id="2561d5f7" data-element_type="widget"
                                                             data-widget_type="nuss-heading.default">
@@ -1760,7 +1763,7 @@
                                                                                                             class="name">
                                                                                                             Catherine
                                                                                                             Kastner</h4>
-                                                                                                        
+
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1798,7 +1801,7 @@
                                                                                                             class="name">
                                                                                                             Slawomir
                                                                                                             Pelikan</h4>
-                                                                                                        
+
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1835,7 +1838,7 @@
                                                                                                             Yasaman
                                                                                                             Foroutan
                                                                                                         </h4>
-                                                                                                        
+
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1871,7 +1874,7 @@
                                                                                                             class="name">
                                                                                                             Catherine
                                                                                                             Kastner</h4>
-                                                                                                        
+
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -1889,7 +1892,7 @@
                                             </div>
                                         </section>
 
-                                     
+
                                     </div>
                                 </div>
                             </div>
@@ -1899,7 +1902,7 @@
             </div>
         </div>
         <?php include_once('includes/footer.php')?>
-        
+
     </div>
     <script>
     (function() {

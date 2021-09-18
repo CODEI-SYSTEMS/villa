@@ -104,7 +104,7 @@
         <link rel="icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" sizes="192x192" />
         <link rel="apple-touch-icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
         <meta name="msapplication-TileImage" content="https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
-        <link rel="stylesheet" href="assets\css\my.css">
+        <link rel="stylesheet" href="assets/css/my.css">
     </head>
     <body class="ux_room-template-default single single-ux_room postid-2161 theme-nuss woocommerce-no-js fullwidth has-no-sidebar page-title-none elementor-default elementor-kit-4735">
         <div id="page-preloader" class="page-loading-effect">
@@ -214,9 +214,9 @@
                       <img src="wp-content/uploads/sites/6/2021/06/16839217-1920x650.jpg" alt="Superior Double Room" title="Superior Double Room" />
                     </a>
                   </div>
-                  
+
                 </div>
-                
+
               </div>
             </div>
             </div>
@@ -296,7 +296,7 @@
                                             </div>
                                             <div class="toggle-desc"><a class="show-more accent-color" href="#">Show more</a> <a class="hide-all accent-color" href="#">Hide all</a></div>
                                         </div>
-                                        
+
                                         <div class="room-rules room-area">
                                             <div class="entry-heading"><h3 class="entry-title heading-font">Room ammenities</h3></div>
                                             <ul class="entry-detail list-rules">
@@ -305,7 +305,7 @@
                                                 <li><p>- 40" TV</p></li>
                                             </ul>
                                         </div>
-                                      
+
                                         <div class="room-rules room-area">
                                             <div class="entry-heading"><h3 class="entry-title heading-font">Room rules</h3></div>
                                             <ul class="entry-detail list-rules">
@@ -589,7 +589,7 @@
             </div>
             <?php include_once('includes/footer.php')?>
         </div>
-        
+
         <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
         <script>
             (function () {
@@ -752,14 +752,14 @@
                 $('.swiper-pagination').append("<br>");
                 $('.room-thumbnails').mouseover(function(){
                     $('.swiper-pagination').append("<i id=\"image-instructor\" style=\"font-weight:500;font-size: 13px;color: #fff;line-height:30px; margin-top:100px\">Scroll to view other images &amp; click on image to zoom in</i>");
-                    
+
                 });
 
                 $('.room-thumbnails').mouseout(function(){
                     $('#image-instructor').remove();
                 });
             });
-            
+
         </script> -->
     </body>
     <!-- Mirrored from nuss.uxper.co/luxury-resort/ux_room/superior/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Sep 2021 04:28:14 GMT -->

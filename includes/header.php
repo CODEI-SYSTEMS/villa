@@ -31,7 +31,7 @@
                         <a href="#">
                           <div class="menu-item-wrap"><span class="menu-item-title">Home</span><span class="toggle-sub-menu"> </span></div>
                         </a>
-                        
+
                       </li>
 
                       <li id="menu-item-3643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3643 level-1">
@@ -339,7 +339,7 @@
                   <a href="index.php" class="has-submenu" id="sm-1631083142739848-1" aria-haspopup="true" aria-controls="sm-1631083142739848-2" aria-expanded="false">
                     <div class="menu-item-wrap"><span class="menu-item-title">Home</span></div>
                   </a>
-                </li> 
+                </li>
               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4284 level-1">
                   <a href="#" class="has-submenu" id="sm-1631083142739848-9" aria-haspopup="true" aria-controls="sm-1631083142739848-10" aria-expanded="false">
                     <div class="menu-item-wrap"><span class="menu-item-title">Rooms</span><span class="toggle-sub-menu">
@@ -357,27 +357,27 @@
                       </a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4287">
-                      <a href="dinning-areas.php">
+                      <a href="dinning.php">
                         <div class="menu-item-wrap"><span class="menu-item-title">Kitchen & Dinning areas</span></div>
                       </a>
                     </li>
-                    
+
                   </ul>
                 </li>
                 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1219 level-1">
-                  <a href="rooms.php" class="has-submenu" id="sm-1631083142739848-1" aria-haspopup="true" aria-controls="sm-1631083142739848-2" aria-expanded="false">
+                  <a href="dinning.php" class="has-submenu" id="sm-1631083142739848-1" aria-haspopup="true" aria-controls="sm-1631083142739848-2" aria-expanded="false">
                     <div class="menu-item-wrap"><span class="menu-item-title">Dinning</span></div>
                   </a>
                 </li>
-                
+
                 <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1219 level-1">
                   <a href="activities.php" class="has-submenu" id="sm-1631083142739848-1" aria-haspopup="true" aria-controls="sm-1631083142739848-2" aria-expanded="false">
                     <div class="menu-item-wrap"><span class="menu-item-title">Activities</span></div>
                   </a>
                 </li>
-              
-                
-                
+
+
+
               </ul>
             </div>
           </div>
@@ -394,27 +394,27 @@
                 <li>
                   <a href="tel:+254700000234"> <i class="fal fa-mobile"></i> <span>+ 254 700 000 234</span> </a>
                 </li><ul>
-               
+
                 <li class="item elementor-repeater-item-d24d286">
                   <a class="link" aria-label="Facebook" href="https://www.facebook.com/" target="_blank" rel="nofollow"> <i class="link-icon fab fa-facebook-f"></i></a>
                 </li>
                 <li class="item elementor-repeater-item-222b104">
                    <a class="link" aria-label="Twitter" href="https://www.twitter.com/" target="_blank" rel="nofollow"> <i class="link-icon fab fa-twitter"></i></a>
-                </li>                                                                    
-          
+                </li>
+
               </ul>
-                
+
               </ul>
             </div>
             <div class="header-button-01 ux-element align-left icon-before" data-id="header-button-01">
             <a class="btn-nuss-popup nuss-button full-filled wide" href="#popup-booking-contact">Send Message</a>
-            
+
             </div>
-            
+
           </div>
         </div>
       </div>
-            
+
     </header>
     <div class="nuss-popup popup-contact popup-fade-in-up" id="popup-booking-contact">
                                                             <div class="bg-overlay"></div>
@@ -449,4 +449,3 @@
                                                                 </form>
                                                             </div>
                                                         </div>
-    
