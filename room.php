@@ -236,7 +236,7 @@
                                                  <div class="icon">
                                                     <img src="https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/dresser-drawers-2.svg" alt="Balcony or Terrace">
                                                  </div>
-                                                 <span>Terrace</span>
+                                                 <span>Master bedroom</span>
                                          </div>
                                             <div class="entry-detail gap-item">
                                                 <div class="icon">
@@ -257,7 +257,7 @@
                                                         </g>
                                                     </svg>
                                                 </div>
-                                                <span>2 beds</span>
+                                                <span>double super king bed</span>
                                             </div>
                                             <div class="entry-detail gap-item">
                                                 <div class="icon">
@@ -282,15 +282,14 @@
                                                         </g>
                                                     </svg>
                                                 </div>
-                                                <span>1 badthroom</span>
+                                                <span>1 bathroom</span>
                                             </div>
                                         </div>
                                         <div class="room-content toggle-content">
                                             <div class="inner-content">
                                                 <div class="entry-visibility post-content">
                                                     <p>
-                                                        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
-                                                        more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English.
+                                                        Golden sands suites bedrooms are nothing but luxurious. Taking inspiration from best International hotel bedrooms that inspire and delight guests. Our design is particularly inspired by luxury and intimacy. Padded doors and headboards, combined with warm finishes create an elegant feel. Not only does this design create delightful ambience, but practical storage too.
                                                     </p>
                                                 </div>
                                             </div>
@@ -303,6 +302,12 @@
                                                 <li><p>- Air conditioner</p></li>
                                                 <li><p>- Wi-fi coverage</p></li>
                                                 <li><p>- 40" TV</p></li>
+                                                <li><p>- Chromecast video streaming</p></li>
+                                                <li><p>- Blackout curtains</p></li>
+                                                <li><p>- Two Frette robes and slippers</p></li>
+                                                <li><p>- coffeemaker</p></li>
+                                                <li><p>- Minifridge</p></li>
+                                                <li><p>- Iron and ironing board</p></li>
                                             </ul>
                                         </div>
 
@@ -311,6 +316,8 @@
                                             <ul class="entry-detail list-rules">
                                                 <li><p>- No smoking</p></li>
                                                 <li><p>- Pets are not allowed</p></li>
+                                                <li><p>- No age requirement for chck-in</p></li>
+                                                <li><p>- Check-out done until 9 Am</p></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -326,7 +333,7 @@
                                             <div class="contact-detail">
                                                 <div class="entry-detail">
                                                     <ul>
-                                                        <li><i class="fal fa-phone icon-medium"></i> <a href="tel:68689888">68689888</a></li>
+                                                        <li><i class="fal fa-phone icon-medium"></i> <a href="tel:+254713876009">+254713876009</a></li>
                                                         <li>
                                                             <i class="fal fa-envelope icon-medium"></i>
                                                             <a href="https://nuss.uxper.co/cdn-cgi/l/email-protection#f5d59b808686b5808d859087db969a">
@@ -415,7 +422,7 @@
                                                 </div>
                                                 <div class="room-detail">
                                                     <div class="room-title">
-                                                        <h3 class="entry-title heading-font"><a href="../deluxe-double-room/index.html" rel="bookmark">Deluxe Double Room</a></h3>
+                                                        <h3 class="entry-title heading-font"><a href="../deluxe-double-room/index.html" rel="bookmark">Silver Sands </a></h3>
                                                     </div>
                                                     <div class="room-meta gap-30">
                                                         <div class="entry-detail gap-item">
@@ -435,7 +442,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>38m2</span>
+                                                            <span>Double King Bed</span>
                                                         </div>
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
@@ -456,7 +463,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>2 beds</span>
+                                                            <span>Balcony</span>
                                                         </div>
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
@@ -481,12 +488,12 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>1 badthroom</span>
+                                                            <span>Ocean View</span>
                                                         </div>
                                                     </div>
-                                                    <div class="room-excerpt"><p>It is a long established fact that a reader will be distracted by the readable...</p></div>
+                                                    <div class="room-excerpt"><p>Mini master bedroom upstairs double king bed and balcony with great ocean views ...</p></div>
                                                     <div class="room-button gap-40">
-                                                        <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="../deluxe-double-room/index.html"> Room Detail </a></div>
+                                                        <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="../villa/room.php"> Room Detail </a></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -504,7 +511,7 @@
                                                 </div>
                                                 <div class="room-detail">
                                                     <div class="room-title">
-                                                        <h3 class="entry-title heading-font"><a href="../superior-double-room/index.html" rel="bookmark">Superior Double Room</a></h3>
+                                                        <h3 class="entry-title heading-font"><a href="../superior-double-room/index.html" rel="bookmark">Bahari Suite</a></h3>
                                                     </div>
                                                     <div class="room-meta gap-30">
                                                         <div class="entry-detail gap-item">
@@ -524,7 +531,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>35m2</span>
+                                                            <span>Girls</span>
                                                         </div>
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
@@ -545,7 +552,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>2 beds</span>
+                                                            <span>1 King Bed</span>
                                                         </div>
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
@@ -570,12 +577,12 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>1 badthroom</span>
+                                                            <span>Single Bed</span>
                                                         </div>
                                                     </div>
-                                                    <div class="room-excerpt"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore...</p></div>
+                                                    <div class="room-excerpt"><p>Beachfront room next to the pool with one king bed and single bed great ocean views ...</p></div>
                                                     <div class="room-button gap-40">
-                                                        <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="../superior-double-room/index.html"> Room Detail </a></div>
+                                                        <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="../villa/room.php"> Room Detail </a></div>
                                                     </div>
                                                 </div>
                                             </div>

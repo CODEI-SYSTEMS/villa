@@ -392,7 +392,7 @@
             <div class="header-contact ux-element hidden-on-tablet hidden-on-mobile" data-id="header-contact">
               <ul>
                 <li>
-                  <a href="tel:+254700000234"> <i class="fal fa-mobile"></i> <span>+ 254 700 000 234</span> </a>
+                  <a href="tel:+254700000234"> <i class="fal fa-mobile"></i> <span>+ 254 713 876 009</span> </a>
                 </li><ul>
 
                 <li class="item elementor-repeater-item-d24d286">
