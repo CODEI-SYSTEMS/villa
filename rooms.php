@@ -158,7 +158,7 @@
             <?php include_once('includes/header.php')?>
 
             <div id="page-title" class="page-title page-title-03">
-                <div class="page-title-inner" style="padding-top: 140px; padding-bottom: 40px;">
+                <div class="page-title-inner" style="padding-top: 130px; padding-bottom: 30px;">
                     <div class="page-title-bg"></div>
                     <div class="container">
                         <div class="row row-xs-center">
