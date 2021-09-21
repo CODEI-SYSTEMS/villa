@@ -286,7 +286,7 @@
                                                                                         <div
                                                                                             class="heading-description">
                                                                                             <p>
-                                                                                                Welcome to Starehe Beach Front Villa. It’s the most beautiful modern holiday home along the kenyan coast.
+                                                                                                Welcome to Starehe Beach Front Villa. It's the most beautiful modern holiday home along the kenyan coast.
                                                                                                 It is located at Sultan Palace beach front retreat, a gated community right opposite Vipingo golf resort.
                                                                                                 Starehe beach Front Villa has 4 lounges and 2 dinning areas indoor and outdoor,...
                                                                                             </p>
@@ -406,7 +406,7 @@
                                                                                         <div
                                                                                             class="heading-description">
                                                                                             <p>From bespoke fitted wardrobes to luxurious dressing rooms, you can have your bedroom any way you want it. 
-                                                                                            Whether it’s small and practical or spacious and indulgent, your bedroom is your inner sanctuary.
+                                                                                            Whether it's small and practical or spacious and indulgent, your bedroom is your inner sanctuary.
                                                                                             We spend a third of our lives in bed, so start living the dream with starehe beachfront villa.</p>
                                                                                         </div>
                                                                                     </div>
