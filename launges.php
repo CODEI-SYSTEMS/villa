@@ -253,12 +253,12 @@
                                                                                     <div class="room-detail">
                                                                                     <div class="room-price accent-color"> <span class="suffix-price"> Dhahabu mchangani </span></div>
                                                                                         <div class="room-title">
-                                                                                            <h3 class="entry-title heading-font"><a href="../ux_room/family-suite/index.html" rel="bookmark">Family Suite</a></h3>
+                                                                                            <h3 class="entry-title heading-font"><a href="../ux_room/family-suite/index.html" rel="bookmark">Jambo Jambo Lobby </a></h3>
                                                                                         </div>
 
-                                                                                        <div class="room-excerpt"><p>It is a long established fact that a reader will be distracted by the readable content of a page when...</p></div>
+                                                                                        <div class="room-excerpt"><p>This is the landing lobby from the main entrance where guests sit as they are sanitized and sign check in documents...</p></div>
                                                                                         <div class="room-button gap-40">
-                                                                                            <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="room.php"> Room Detail </a></div>
+                                                                                            <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="room.php"> Lounge Detail </a></div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -304,12 +304,12 @@
                                                                                     <div class="room-detail">
                                                                                     <div class="room-price accent-color"> <span class="suffix-price"> Dhahabu mchangani </span></div>
                                                                                         <div class="room-title">
-                                                                                            <h3 class="entry-title heading-font"><a href="../ux_room/family-suite/index.html" rel="bookmark">Family Suite</a></h3>
+                                                                                            <h3 class="entry-title heading-font"><a href="../ux_room/family-suite/index.html" rel="bookmark">Kahawa Tungu</a></h3>
                                                                                         </div>
 
-                                                                                        <div class="room-excerpt"><p>It is a long established fact that a reader will be distracted by the readable content of a page when...</p></div>
+                                                                                        <div class="room-excerpt"><p>This is a tastefully furnished outdoor relaxation lounge next to the our private swimming pool...</p></div>
                                                                                         <div class="room-button gap-40">
-                                                                                            <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="room.php"> Room Detail </a></div>
+                                                                                            <div class="btn-readmore gap-item"><a class="nuss-button underline uppercase" href="room.php"> Lounge Detail </a></div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
