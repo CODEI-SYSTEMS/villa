@@ -257,7 +257,7 @@
                                                                                                 <div class="icon">
                                                                                                     <img src="https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/dresser-drawers-2.svg" alt="Balcony or Terrace">
                                                                                                 </div>
-                                                                                                <span>Mini Lounge</span>
+                                                                                                <span>Terrace</span>
                                                                                             </div>
                                                                                             <div class="entry-detail gap-item">
                                                                                                 <div class="icon">
@@ -361,7 +361,7 @@
                                                                                                 <div class="icon">
                                                                                                     <img src="https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/dresser-drawers-2.svg" alt="Balcony or Terrace">
                                                                                                 </div>
-                                                                                                <span>Mini Master bedroom</span>
+                                                                                                <span>Terrace</span>
                                                                                             </div>
                                                                                             <div class="entry-detail gap-item">
                                                                                                 <div class="icon">

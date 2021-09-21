@@ -13,10 +13,11 @@
     <link rel="stylesheet" media="print" onload="this.onload=null;this.media='all';" id="ao_optimized_gfonts"
         href="https://fonts.googleapis.com/css?family=Jost%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CCormorant+Garamond%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=swap" />
     <link rel="profile" href="http://gmpg.org/xfn/11" />
-    <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_1f43c93ac8ad9b088223645b3a7fec56.css"
+
+    <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_7a7a8545e438c6828189a4b89b697268.css"
         rel="stylesheet" />
-    <!-- <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_7a7a8545e438c6828189a4b89b697268.css"
-        rel="stylesheet" />     -->
+        <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_1f43c93ac8ad9b088223645b3a7fec56.css"
+            rel="stylesheet" />
     <link media="only screen and (max-width: 768px)"
         href="wp-content/cache/autoptimize/6/css/autoptimize_541e2ced151704f4ff1844c6de47ec02.css" rel="stylesheet" />
     <title>Luxury Resort &#8211; Hotel Booking WordPress Theme</title>
@@ -27,15 +28,7 @@
     <link rel="alternate" type="application/rss+xml" title="Luxury Resort &raquo; Comments Feed"
         href="comments/feed/index.html" />
     <script>
-    window._wpemojiSettings = {
-        baseUrl: "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/",
-        ext: ".png",
-        svgUrl: "https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/",
-        svgExt: ".svg",
-        source: {
-            concatemoji: "https:\/\/nuss.uxper.co\/luxury-resort\/wp-includes\/js\/wp-emoji-release.min.js"
-        },
-    };
+
     !(function(e, a, t) {
         var n,
             r,
@@ -128,7 +121,7 @@
     <link rel="icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" sizes="192x192" />
     <link rel="apple-touch-icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
     <meta name="msapplication-TileImage"
-        content="https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
+        content="assets\images\logo.png" />
     <link rel="stylesheet" href="assets\css\my.css">
 </head>
 
@@ -274,7 +267,7 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-modern-heading">
                                                                                     <div class="heading-secondary-wrap">
-                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Since 2006</span>
+                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Beauty & the beach</span>
                                                                                     </div>
                                                                                     <div class="heading-primary-wrap">
                                                                                         <h3
@@ -286,7 +279,7 @@
                                                                                         <div
                                                                                             class="heading-description">
                                                                                             <p>
-                                                                                                Welcome to Starehe Beach Front Villa. It’s the most beautiful modern holiday home along the kenyan coast.
+                                                                                                Welcome to Starehe Beach Front Villa. It's the most beautiful modern holiday home along the kenyan coast.
                                                                                                 It is located at Sultan Palace beach front retreat, a gated community right opposite Vipingo golf resort.
                                                                                                 Starehe beach Front Villa has 4 lounges and 2 dinning areas indoor and outdoor,...
                                                                                             </p>
@@ -354,8 +347,6 @@
                                                                         class="attachment-full size-full" alt=""
                                                                         loading="lazy" srcset="
                                                                                 http://starehe.codeisystems.co.ke/images/property8.png         740w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/about-img-11-1-231x300.jpg 231w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/about-img-11-1-600x778.jpg 600w
                                                                             "
                                                                         sizes="(max-width: 740px) 100vw, 740px" />
                                                                     <figcaption
@@ -394,19 +385,19 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-modern-heading">
                                                                                 <div class="heading-secondary-wrap">
-                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Since 2006</span>
+                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Beach side</span>
                                                                                     </div>
                                                                                     <div class="heading-primary-wrap">
                                                                                         <h3
                                                                                             class="heading-primary elementor-heading-title">
-                                                                                            Our Rooms</h3>
+                                                                                            Bedrooms</h3>
                                                                                     </div>
                                                                                     <div
                                                                                         class="heading-description-wrap">
                                                                                         <div
                                                                                             class="heading-description">
-                                                                                            <p>From bespoke fitted wardrobes to luxurious dressing rooms, you can have your bedroom any way you want it. 
-                                                                                            Whether it’s small and practical or spacious and indulgent, your bedroom is your inner sanctuary.
+                                                                                            <p>From bespoke fitted wardrobes to luxurious dressing rooms, you can have your bedroom any way you want it.
+                                                                                            Whether it's small and practical or spacious and indulgent, your bedroom is your inner sanctuary.
                                                                                             We spend a third of our lives in bed, so start living the dream with starehe beachfront villa.</p>
                                                                                         </div>
                                                                                     </div>
@@ -1049,7 +1040,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </section>    
+                                        </section>
 
                                         <section
                                             class="elementor-section elementor-top-section elementor-element elementor-element-36d789fa elementor-section-gap-beside-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch"
@@ -1109,21 +1100,19 @@
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-modern-heading">
                                                                                 <div class="heading-secondary-wrap">
-                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Since 2006</span>
+                                                                                        <span class="heading-secondary elementor-heading-title" style="color:#dd933c">Fine dinning</span>
                                                                                     </div>
                                                                                     <div class="heading-primary-wrap">
                                                                                         <h3
                                                                                             class="heading-primary elementor-heading-title">
-                                                                                            Indulge in Dinning at our Resort
+                                                                                            Enjoy local & international quisine.
                                                                                         </h3>
                                                                                     </div>
                                                                                     <div
                                                                                         class="heading-description-wrap">
                                                                                         <div
                                                                                             class="heading-description">
-                                                                                            <p><strong>Open
-                                                                                                    Daily:</strong>
-                                                                                                24hr/7days</p>
+                                                                                            <p><strong>Chef prepared delicacies</strong></p>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -1141,7 +1130,7 @@
                                                                                         <div
                                                                                             class="button-content-wrapper">
                                                                                             <span
-                                                                                                class="button-text">More About Our Dinning</span></div>
+                                                                                                class="button-text">View menu</span></div>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>
@@ -1235,13 +1224,10 @@
                                                                             data-widget_type="nuss-button.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div class="nuss-ele-button-wrapper">
-                                                                                    <a href="https://nuss.uxper.co/apartement/spa/"
-                                                                                        class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"
-                                                                                        role="button">
-                                                                                        <div
-                                                                                            class="button-content-wrapper">
-                                                                                            <span
-                                                                                                class="button-text">More activities</span></div>
+                                                                                    <a href="activities.php" class="nuss-ele-button-link nuss-ele-button style-border nuss-ele-button-nm"role="button">
+                                                                                        <div class="button-content-wrapper">
+                                                                                            <span class="button-text">More activities</span>
+                                                                                        </div>
                                                                                     </a>
                                                                                 </div>
                                                                             </div>

@@ -236,7 +236,7 @@
                                                  <div class="icon">
                                                     <img src="https://nuss.uxper.co/boutique-hotel/wp-content/uploads/sites/2/2021/04/dresser-drawers-2.svg" alt="Balcony or Terrace">
                                                  </div>
-                                                 <span>Master bedroom</span>
+                                                 <span>Terrace</span>
                                          </div>
                                             <div class="entry-detail gap-item">
                                                 <div class="icon">
@@ -282,7 +282,10 @@
                                                         </g>
                                                     </svg>
                                                 </div>
-                                                <span>1 bathroom</span>
+                                                <span>Bathroom</span>
+                                            </div>
+                                            <div class="entry-detail gap-item">
+                                               <i class="fal fa-play icon-medium"></i> &nbsp; <a href="">Take a tour</a>
                                             </div>
                                         </div>
                                         <div class="room-content toggle-content">
@@ -417,33 +420,14 @@
                                                 <div class="room-thumbnails">
                                                     <a href="../deluxe-double-room/index.html"> <img src="wp-content/uploads/sites/6/2021/06/176929898-510x360.jpg" alt="Deluxe Double Room" title="Deluxe Double Room" /> </a>
                                                     <a href="../deluxe-double-room/index.html">
-                                                        <div class="room-price"><span class="regular-price"> $233 </span> <span class="suffix-price"> / Night </span></div>
                                                     </a>
                                                 </div>
                                                 <div class="room-detail">
                                                     <div class="room-title">
-                                                        <h3 class="entry-title heading-font"><a href="../deluxe-double-room/index.html" rel="bookmark">Silver Sands </a></h3>
+                                                        <h3 class="entry-title heading-font"><a href="room.php" rel="bookmark">Silver Sands </a></h3>
                                                     </div>
                                                     <div class="room-meta gap-30">
-                                                        <div class="entry-detail gap-item">
-                                                            <div class="icon">
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="24" viewBox="0 0 28 24">
-                                                                    <g fill="none" fill-rule="evenodd">
-                                                                        <g fill="#000" fill-rule="nonzero">
-                                                                            <g>
-                                                                                <g>
-                                                                                    <path
-                                                                                        d="M27.402 22.052l-.91-3.196c-.042-.147-.175-.256-.337-.277-.162-.02-.32.053-.402.185l-1.055 1.698-2.635-1.442V10.65c0-.02-.003-.04-.007-.06.004-.016.006-.031.007-.046 0-.134-.076-.258-.2-.325L14.118 5.98V3.133h2.1c.164 0 .31-.092.373-.232.062-.141.028-.303-.088-.41L14 .15c-.157-.146-.412-.146-.57 0l-2.504 2.34c-.115.107-.15.269-.087.41.062.14.21.232.372.232h2.1V5.98l-7.745 4.238c-.123.067-.2.19-.2.325l.007.046c-.004.02-.006.04-.006.06v8.37L2.73 20.463l-1.054-1.699c-.082-.132-.24-.204-.403-.184-.161.02-.294.129-.336.276l-.91 3.197c-.058.201.07.407.286.461l3.423.85c.157.04.325-.014.424-.135.099-.121.11-.286.028-.418l-1.053-1.697 2.634-1.441 7.741 4.235.015.006c.022.01.045.02.069.027l.024.007c.063.016.129.016.191 0l.023-.007c.024-.007.047-.016.07-.027.004-.003.01-.003.014-.006l7.744-4.235 2.634 1.442-1.053 1.697c-.073.116-.073.26-.001.377.072.116.205.188.35.188.035 0 .07-.004.103-.012l3.423-.85c.215-.054.343-.26.286-.462zM13.714.951l1.531 1.429h-3.061l1.53-1.43zM.91 21.88l.556-1.953L3.002 22.4.91 21.88zM13.714 6.632l7.148 3.91-7.148 3.91-7.147-3.91 7.147-3.91zM6.172 11.2l7.139 3.905v7.82L6.172 19.02V11.2zm7.946 11.725v-7.82l7.138-3.905v7.82l-7.138 3.905zm10.309-.524l1.535-2.473.557 1.953-2.092.52z"
-                                                                                        transform="translate(-135 -838) translate(135 710) translate(0 128)"
-                                                                                    />
-                                                                                </g>
-                                                                            </g>
-                                                                        </g>
-                                                                    </g>
-                                                                </svg>
-                                                            </div>
-                                                            <span>Double King Bed</span>
-                                                        </div>
+
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
                                                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -463,7 +447,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>Balcony</span>
+                                                            <span>Queen size Bed</span>
                                                         </div>
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
@@ -488,7 +472,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>Ocean View</span>
+                                                            <span>Bathroom</span>
                                                         </div>
                                                     </div>
                                                     <div class="room-excerpt"><p>Mini master bedroom upstairs double king bed and balcony with great ocean views ...</p></div>
@@ -507,32 +491,15 @@
                                             <div class="inner-room-wrap">
                                                 <div class="room-thumbnails">
                                                     <a href="../superior-double-room/index.html"> <img src="wp-content/uploads/sites/6/2021/06/16470266-510x360.jpg" alt="Thahabu mchangani room" title="Superior Double Room" /> </a>
-                                                    <a href="../superior-double-room/index.html"><div class="room-price"><span class="regular-price"> $69 </span> <span class="suffix-price"> / Night </span></div></a>
+                                                    <a href="../superior-double-room/index.html">
+                                                    </a>
                                                 </div>
                                                 <div class="room-detail">
                                                     <div class="room-title">
-                                                        <h3 class="entry-title heading-font"><a href="../superior-double-room/index.html" rel="bookmark">Bahari Suite</a></h3>
+                                                        <h3 class="entry-title heading-font"><a href="room.php" rel="bookmark">Bahari Suite</a></h3>
                                                     </div>
                                                     <div class="room-meta gap-30">
-                                                        <div class="entry-detail gap-item">
-                                                            <div class="icon">
-                                                                <svg xmlns="http://www.w3.org/2000/svg" width="28" height="24" viewBox="0 0 28 24">
-                                                                    <g fill="none" fill-rule="evenodd">
-                                                                        <g fill="#000" fill-rule="nonzero">
-                                                                            <g>
-                                                                                <g>
-                                                                                    <path
-                                                                                        d="M27.402 22.052l-.91-3.196c-.042-.147-.175-.256-.337-.277-.162-.02-.32.053-.402.185l-1.055 1.698-2.635-1.442V10.65c0-.02-.003-.04-.007-.06.004-.016.006-.031.007-.046 0-.134-.076-.258-.2-.325L14.118 5.98V3.133h2.1c.164 0 .31-.092.373-.232.062-.141.028-.303-.088-.41L14 .15c-.157-.146-.412-.146-.57 0l-2.504 2.34c-.115.107-.15.269-.087.41.062.14.21.232.372.232h2.1V5.98l-7.745 4.238c-.123.067-.2.19-.2.325l.007.046c-.004.02-.006.04-.006.06v8.37L2.73 20.463l-1.054-1.699c-.082-.132-.24-.204-.403-.184-.161.02-.294.129-.336.276l-.91 3.197c-.058.201.07.407.286.461l3.423.85c.157.04.325-.014.424-.135.099-.121.11-.286.028-.418l-1.053-1.697 2.634-1.441 7.741 4.235.015.006c.022.01.045.02.069.027l.024.007c.063.016.129.016.191 0l.023-.007c.024-.007.047-.016.07-.027.004-.003.01-.003.014-.006l7.744-4.235 2.634 1.442-1.053 1.697c-.073.116-.073.26-.001.377.072.116.205.188.35.188.035 0 .07-.004.103-.012l3.423-.85c.215-.054.343-.26.286-.462zM13.714.951l1.531 1.429h-3.061l1.53-1.43zM.91 21.88l.556-1.953L3.002 22.4.91 21.88zM13.714 6.632l7.148 3.91-7.148 3.91-7.147-3.91 7.147-3.91zM6.172 11.2l7.139 3.905v7.82L6.172 19.02V11.2zm7.946 11.725v-7.82l7.138-3.905v7.82l-7.138 3.905zm10.309-.524l1.535-2.473.557 1.953-2.092.52z"
-                                                                                        transform="translate(-135 -838) translate(135 710) translate(0 128)"
-                                                                                    />
-                                                                                </g>
-                                                                            </g>
-                                                                        </g>
-                                                                    </g>
-                                                                </svg>
-                                                            </div>
-                                                            <span>Girls</span>
-                                                        </div>
+
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
                                                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -552,7 +519,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>1 King Bed</span>
+                                                            <span>King size Bed</span>
                                                         </div>
                                                         <div class="entry-detail gap-item">
                                                             <div class="icon">
@@ -577,7 +544,7 @@
                                                                     </g>
                                                                 </svg>
                                                             </div>
-                                                            <span>Single Bed</span>
+                                                            <span>Bathroom</span>
                                                         </div>
                                                     </div>
                                                     <div class="room-excerpt"><p>Beachfront room next to the pool with one king bed and single bed great ocean views ...</p></div>

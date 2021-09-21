@@ -15,19 +15,19 @@
             .nuss-ldef-ellipsis span,
             .nuss-ldef-grid span,
             .nuss-ldef-spinner span:after {
-                background-color: #10a8cd;
+                background-color: #dd933c;
             }
             .nuss-ldef-ripple span {
-                border-color: #10a8cd;
+                border-color: #dd933c;
             }
             .nuss-ldef-dual-ring:after,
             .nuss-ldef-ring span,
             .nuss-ldef-hourglass:after {
-                border-top-color: #10a8cd;
+                border-top-color: #dd933c;
             }
             .nuss-ldef-dual-ring:after,
             .nuss-ldef-hourglass:after {
-                border-bottom-color: #10a8cd;
+                border-bottom-color: #dd933c;
             }
             body {
                 font-family: Jost;
@@ -118,7 +118,7 @@
             input[type="password"]:focus,
             input[type="number"]:focus,
             input[type="search"]:focus {
-                border-color: #10a8cd;
+                border-color: #dd933c;
             }
             .accent-background,
             .calendar .calendar-legend-item.calendar--today .calendar-box,
@@ -150,19 +150,19 @@
             .single .post-tags a:hover,
             .wp-block-search .wp-block-search__button,
             .wp-block-tag-cloud a:hover {
-                background-color: #10a8cd;
+                background-color: #dd933c;
             }
             .uxper-dual-ring:after {
-                border-top-color: #10a8cd;
-                border-bottom-color: #10a8cd;
+                border-top-color: #dd933c;
+                border-bottom-color: #dd933c;
             }
             a {
-                color: #10a8cd;
+                color: #dd933c;
             }
             a:hover,
             a:focus,
             .widget_rss li a:hover {
-                color: #10a8cd;
+                color: #dd933c;
                 /* background: -webkit-linear-gradient(#34c8ec 60%, #eaf9fd  );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; */
@@ -193,11 +193,11 @@
             }
             .nuss-button.underline:hover,
             .nuss-button.underline:focus {
-                color: #10a8cd;
+                color: #dd933c;
             }
             .nuss-button.full-filled {
                 color: #ffffff;
-                background-color: #10a8cd;
+                background-color: #dd933c;
                 padding-top: 11px;
                 padding-right: 32px;
                 padding-bottom: 11px;
@@ -232,7 +232,7 @@
             }
             .nuss-button.line:hover,
             .nuss-button.line:focus {
-                color: #10a8cd;
+                color: #dd933c;
             }
             html {
                 background-color: #ffffff;
@@ -259,7 +259,7 @@
             }
             header.site-header .header-button-01 a.nuss-button {
                 color: #fff;
-                background-color: #10a8cd;
+                background-color: #dd933c;
                 border-style: none;
                 text-transform: uppercase;
                 max-width: 300px;
@@ -273,7 +273,7 @@
             }
             header.site-header .header-button-02 a.nuss-button {
                 color: #fff;
-                background-color: #10a8cd;
+                background-color: #dd933c;
                 border-style: none;
                 text-transform: uppercase;
                 max-width: 100px;
@@ -352,7 +352,7 @@
             }
             .ux-element.header-search-input .icon-search {
                 font-size: 16px;
-                color: #10a8cd;
+                color: #dd933c;
             }
             .ux-element.header-device > span {
                 background: #0d0909;
@@ -497,7 +497,7 @@
                 color: #5a5a5a;
             }
             .page-title.page-title-03 .page-title-bg {
-                background: rgba(235,158,44,32%);
+                background: rgba(52,200,236,10%);
                 background-repeat: no-repeat;
                 background-position: center center;
                 background-attachment: scroll;
@@ -1511,7 +1511,7 @@
             }
 
             header.site-header.header-float .column-wrap a:hover{
-                color:#10a8cd;
+                color:#dd933c;
             }
 
             header.site-header .header-button-01 a.nuss-button{
@@ -1552,7 +1552,7 @@
               margin-right: 20px
             }
             .nuss-swiper .swiper-slide{
-              text-align:center;
+              text-align:left;
             }
             .elementor-widget-nuss-testimonial.layout-image-top .swiper-slide{
               padding-top:0px;

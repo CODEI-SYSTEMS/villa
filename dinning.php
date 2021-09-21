@@ -210,7 +210,7 @@
                             <div class="swiper-wrapper">
                               <div class="swiper-slide elementor-repeater-item-2ee4d5e">
                                 <div class="testimonial-item">
-                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Menu Highlights</h3></div></div>
+                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">DAY 1 KENYA SWIHILI CUSINE</h3></div></div>
                                   <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e117eb elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="5e117eb" data-element_type="section">
                                       <div class="elementor-container elementor-column-gap-extended">
                                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2802095" data-id="2802095" data-element_type="column">
@@ -405,7 +405,7 @@
                               </div>
                               <div class="swiper-slide elementor-repeater-item-2ee4d5e">
                                 <div class="testimonial-item">
-                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Menu Highlights</h3></div></div>
+                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">DAY 2 ITALIAN CUSINE</h3></div></div>
                                   <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e117eb elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="5e117eb" data-element_type="section">
                                       <div class="elementor-container elementor-column-gap-extended">
                                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2802095" data-id="2802095" data-element_type="column">
@@ -600,7 +600,7 @@
                               </div>
                               <div class="swiper-slide elementor-repeater-item-2ee4d5e">
                                 <div class="testimonial-item">
-                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Menu Highlights</h3></div></div>
+                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">DAY 3 INDIAN CUISINE NIGHT</h3></div></div>
                                   <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e117eb elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="5e117eb" data-element_type="section">
                                       <div class="elementor-container elementor-column-gap-extended">
                                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2802095" data-id="2802095" data-element_type="column">
@@ -795,7 +795,202 @@
                               </div>
                               <div class="swiper-slide elementor-repeater-item-2ee4d5e">
                                 <div class="testimonial-item">
-                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">Menu Highlights</h3></div></div>
+                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">DAY 4 SOUTH AFRICAN CUSINE</h3></div></div>
+                                  <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e117eb elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="5e117eb" data-element_type="section">
+                                      <div class="elementor-container elementor-column-gap-extended">
+                                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2802095" data-id="2802095" data-element_type="column">
+                                          <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-bd591e3 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="bd591e3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default">
+                                              <div class="elementor-widget-container font-15 m-bottom-10"><h3 class="elementor-heading-title elementor-size-default font-25 font-15">Breakfast</h3></div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-2ad577d elementor-widget elementor-widget-text-editor animated nussFadeInUp" data-id="2ad577d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="text-editor.default">
+                                              <div class="elementor-widget-container font-15"><p>8.30 AM – 11:00 AM</p></div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-8cfc577 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="8cfc577" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-1-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Fried Chiken</h6>
+                                                    <p class="elementor-image-box-description">Chicken / Rosemary / Lemon</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-f982144 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="f982144" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-2-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Belgian Waffle</h6>
+                                                    <p class="elementor-image-box-description">Mushroom / Veggie</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-ac6ae66 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="ac6ae66" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-3-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Salmon Steak</h6>
+                                                    <p class="elementor-image-box-description">Veggie / White Sources</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-9ec0e25 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="9ec0e25" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-4-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Eggs Tomato</h6>
+                                                    <p class="elementor-image-box-description">Mushroom / Veggie</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e2261d5" data-id="e2261d5" data-element_type="column">
+                                          <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-56038ac elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="56038ac" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default">
+                                              <div class="elementor-widget-container font-15 m-bottom-10"><h3 class="elementor-heading-title elementor-size-default font-25 font-15">Lunch</h3></div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-7d11cf9 elementor-widget elementor-widget-text-editor animated nussFadeInUp" data-id="7d11cf9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="text-editor.default">
+                                              <div class="elementor-widget-container font-15"><p>12:00 PM – 2:30 PM</p></div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-36ae803 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="36ae803" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-4-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Fried Chiken</h6>
+                                                    <p class="elementor-image-box-description">Chicken / Rosemary / Lemon</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-6cc2764 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="6cc2764" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-6-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Belgian Waffle</h6>
+                                                    <p class="elementor-image-box-description">Veggie / White Sources</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-e92dcf6 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="e92dcf6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-7-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Salmon Steak</h6>
+                                                    <p class="elementor-image-box-description">Mushroom / Veggie</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-3d66737 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="3d66737" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-8-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Eggs Tomato</h6>
+                                                    <p class="elementor-image-box-description">Mushroom / White Sources</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c38eafe" data-id="c38eafe" data-element_type="column">
+                                          <div class="elementor-widget-wrap elementor-element-populated">
+                                            <div class="elementor-element elementor-element-78d5736 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="78d5736" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default">
+                                              <div class="elementor-widget-container font-15 m-bottom-10" ><h3 class="elementor-heading-title elementor-size-default font-25 font-15">The Dinner</h3></div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-af695e2 elementor-widget elementor-widget-text-editor animated nussFadeInUp" data-id="af695e2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="text-editor.default">
+                                              <div class="elementor-widget-container font-15"><p>7:00 PM – 10:30 PM</p></div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-e7972e6 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="e7972e6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-10-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Fried Chiken</h6>
+                                                    <p class="elementor-image-box-description">Chicken / Rosemary / Lemon</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-972805b elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="972805b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-11-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Belgian Waffle</h6>
+                                                    <p class="elementor-image-box-description">Veggie / White Sources</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-ff47431 elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="ff47431" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-11-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Salmon Steak</h6>
+                                                    <p class="elementor-image-box-description">Mushroom / Veggie</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-8e9671c elementor-position-left elementor-vertical-align-middle elementor-widget-mobile__width-initial elementor-widget elementor-widget-image-box animated nussFadeInUp" data-id="8e9671c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="image-box.default">
+                                              <div class="elementor-widget-container font-15">
+                                                <div class="elementor-image-box-wrapper">
+                                                  <figure class="elementor-image-box-img">
+                                                    <img width="150" height="150" src="wp-content/uploads/sites/6/2021/06/mn-3-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy">
+                                                  </figure>
+                                                  <div class="elementor-image-box-content">
+                                                    <h6 class="elementor-image-box-title">Eggs Tomato</h6>
+                                                    <p class="elementor-image-box-description">Mushroom / White Sources</p>
+                                                  </div>
+                                                </div>
+                                              </div>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                  </section>
+                                </div>
+                              </div>
+                              <div class="swiper-slide elementor-repeater-item-2ee4d5e">
+                                <div class="testimonial-item">
+                                  <div class="elementor-element elementor-element-7a53926 elementor-widget elementor-widget-heading animated nussFadeInUp" data-id="7a53926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;nussFadeInUp&quot;}" data-widget_type="heading.default"><div class="elementor-widget-container"><h3 class="elementor-heading-title elementor-size-default">DAY 5 EUROPE – BRITISH CUISINE</h3></div></div>
                                   <section class="elementor-section elementor-inner-section elementor-element elementor-element-5e117eb elementor-section-boxed elementor-section-gap-beside-yes elementor-section-height-default elementor-section-height-default elementor-section-column-vertical-align-stretch" data-id="5e117eb" data-element_type="section">
                                       <div class="elementor-container elementor-column-gap-extended">
                                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2802095" data-id="2802095" data-element_type="column">
