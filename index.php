@@ -1067,11 +1067,7 @@
                                                                     <img width="668" height="1002"
                                                                         src="wp-content/uploads/sites/6/2021/07/photo-1531088009183-5ff5b7c95f91-1.jpg"
                                                                         class="attachment-full size-full" alt=""
-                                                                        loading="lazy" srcset="
-                                                                                http://starehe.codeisystems.co.ke/images/property7.png         668w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1531088009183-5ff5b7c95f91-1-200x300.jpeg 200w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1531088009183-5ff5b7c95f91-1-600x900.jpeg 600w
-                                                                            "
+                                                                        loading="lazy" srcset="http://starehe.codeisystems.co.ke/images/property7.png 668w"
                                                                         sizes="(max-width: 668px) 100vw, 668px" />
                                                                     <figcaption
                                                                         class="widget-image-caption wp-caption-text">
@@ -1163,10 +1159,7 @@
                                                                         src="wp-content/uploads/sites/6/2021/07/photo-1578884144755-6f1907e23058-1.jpg"
                                                                         class="attachment-full size-full" alt=""
                                                                         loading="lazy" srcset="
-                                                                                assets/images/IMG_1709-min.png         668w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1578884144755-6f1907e23058-1-200x300.jpeg 200w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/photo-1578884144755-6f1907e23058-1-600x900.jpeg 600w
-                                                                            "
+                                                                                assets/images/IMG_1709-min.png   668w"
                                                                         sizes="(max-width: 668px) 100vw, 668px" />
                                                                     <figcaption
                                                                         class="widget-image-caption wp-caption-text">
@@ -1260,11 +1253,7 @@
                                                                         src="wp-content/uploads/sites/6/2021/07/spa-7-1.jpg"
                                                                         class="attachment-full size-full" alt=""
                                                                         loading="lazy" srcset="
-                                                                                http://starehe.codeisystems.co.ke/images/property9.png        770w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/spa-7-1-300x187.jpg 300w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/spa-7-1-768x479.jpg 768w,
-                                                                                https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/07/spa-7-1-600x374.jpg 600w
-                                                                            "
+                                                                                http://starehe.codeisystems.co.ke/images/property9.png        770w"
                                                                         sizes="(max-width: 770px) 100vw, 770px" />
                                                                     <figcaption
                                                                         class="widget-image-caption wp-caption-text">A

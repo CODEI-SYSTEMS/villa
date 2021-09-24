@@ -138,7 +138,7 @@
                       </li>
                       <li id="menu-item-4505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4505 level-1 has-mega-menu">
                         <a href="#">
-                          <div class="menu-item-wrap"><span class="menu-item-title">Launges</span><span class="toggle-sub-menu"> </span></div>
+                          <div class="menu-item-wrap"><span class="menu-item-title">lounges</span><span class="toggle-sub-menu"> </span></div>
                         </a>
                         <ul class="sub-menu children mega-menu" style="">
                           <li id="menu-item-4514" class="menu-item menu-item-type-post_type menu-item-object-nuss_mega_menu menu-item-4514">
@@ -352,15 +352,11 @@
                       </a>
                     </li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4287">
-                      <a href="launges.php">
-                        <div class="menu-item-wrap"><span class="menu-item-title">Launges</span></div>
+                      <a href="lounges.php">
+                        <div class="menu-item-wrap"><span class="menu-item-title">lounges</span></div>
                       </a>
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4287">
-                      <a href="dinning.php">
-                        <div class="menu-item-wrap"><span class="menu-item-title">Kitchen & Dinning areas</span></div>
-                      </a>
-                    </li>
+                  
 
                   </ul>
                 </li>

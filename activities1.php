@@ -19,6 +19,7 @@
     <link rel="profile" href="http://gmpg.org/xfn/11" />
     <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_f9d9759be1cb95c9ccf3955a573024e7.css" rel="stylesheet" />
     <link media="only screen and (max-width: 768px)" href="wp-content/cache/autoptimize/6/css/autoptimize_541e2ced151704f4ff1844c6de47ec02.css" rel="stylesheet" />
+    <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_1f43c93ac8ad9b088223645b3a7fec56.css" rel="stylesheet" />
     <title>Services &#8211; Luxury Resort</title>
     <meta name="robots" content="max-image-preview:large" />
     <link rel="dns-prefetch" href="http://s.w.org/" />
@@ -91,7 +92,6 @@
     <link rel="stylesheet" id="elementor-post-4735-css" href="wp-content/cache/autoptimize/6/css/autoptimize_single_818012e4388a3ce13001eeaba0a6c771.css" media="all" />
     <link rel="stylesheet" id="elementor-global-css" href="wp-content/cache/autoptimize/6/css/autoptimize_single_f62e133480258caffeae6a4a6f01d651.css" media="all" />
     <link rel="stylesheet" id="elementor-post-647-css" href="wp-content/cache/autoptimize/6/css/autoptimize_single_4180df91fa59e3bc441d8ec809516604.css" media="all" />
-    <link media="all" href="wp-content/cache/autoptimize/6/css/autoptimize_1f43c93ac8ad9b088223645b3a7fec56.css" rel="stylesheet" />
     <script src="wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
     <script src="wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
     <link rel="https://api.w.org/" href="wp-json/index.html" />
@@ -99,19 +99,18 @@
     <link rel="canonical" href="index.html" />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embedfaa5.json?url=https%3A%2F%2Fnuss.uxper.co%2Fluxury-resort%2Fservices%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed4c45?url=https%3A%2F%2Fnuss.uxper.co%2Fluxury-resort%2Fservices%2F&amp;format=xml" />
-
-
-    <link rel="icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-100x100.png" sizes="32x32" />
-    <link rel="icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
-    <meta name="msapplication-TileImage" content="https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
-
     <link rel="stylesheet" href="assets/css/my.css">
     <style media="screen">
     a {
       color: #1a1a1a;
       }
     </style>
+
+    <link rel="icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-100x100.png" sizes="32x32" />
+    <link rel="icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
+    <meta name="msapplication-TileImage" content="https://nuss.uxper.co/luxury-resort/wp-content/uploads/sites/6/2021/06/cropped-site_icon-1-300x300.png" />
+
   </head>
   <body class="page-template-default page page-id-647 theme-nuss woocommerce-no-js fullwidth has-no-sidebar page-title-03 page-title-has-post-title elementor-default elementor-kit-4735 elementor-page elementor-page-647">
     <div id="page-preloader" class="page-loading-effect">

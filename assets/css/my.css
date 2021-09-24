@@ -58,7 +58,7 @@
                 font-size: 48px;
             }
             h3 {
-                font-size: 36px;
+                font-size: 35px;
             }
             h4 {
                 font-size: 28px;
@@ -159,6 +159,11 @@
             a {
                 color: #dd933c;
             }
+
+            h3 a {
+                color: #1a1a1a;
+            }
+
             a:hover,
             a:focus,
             .widget_rss li a:hover {
@@ -1564,3 +1569,9 @@
             @media (max-width: 767px).elementor-widget-wrap .elementor-element.elementor-widget-mobile__width-auto, .elementor-widget-wrap .elementor-element.elementor-widget-mobile__width-initial{
                 max-width:50%
             }
+
+            .page-title.page-title-03 .heading.header-text{
+              color:#dd933c;
+            }
+
+        
